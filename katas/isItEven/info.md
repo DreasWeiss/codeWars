@@ -1,6 +1,8 @@
 # Is it even?
 8 kyu
 [link to kata](https://www.codewars.com/kata/555a67db74814aa4ee0001b5/train/javascript)
+<br>
+[my solution](./kata.js)
 
 In this Kata we are passing a number (n) into a function.
 

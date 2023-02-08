@@ -1,6 +1,9 @@
 # Welcome!
 8 kyu
 [link to kata](https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/javascript)
+<br>
+[my solution](./kata.js)
+[my solution 2](./kataSecond.js)
 
 Your start-up's BA has told marketing that your website has a large audience in Scandinavia and surrounding countries. Marketing thinks it would be great to welcome visitors to the site in their own language. Luckily you already use an API that detects the user's location, so this is an easy win.
 
