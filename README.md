@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/train/javascript)|5|JS|[path](./katas/stringIncrementer/)|[solution](./katas/stringIncrementer/kata.js)|
 |[Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/javascript)|7|JS|[path](./katas/sumOfOddNumbers/)|[solution](./katas/sumOfOddNumbers/kata.js)|
 |[Sum of Minimums!](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/train/javascript)|7|JS|[path](./katas/sumOfMinimus/)|[solution](./katas/sumOfMinimus/kata.js)|
 |[Welcome!](https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/javascript)|8|JS|[path](./katas/welcome/)|[solution](./katas/welcome/kataSecond.js)|
