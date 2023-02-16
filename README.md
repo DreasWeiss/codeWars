@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/train/javascript)|7|JS|[path](./katas/onesAndZeros/)|[solution](./katas/onesAndZeros/kata.js)|
 |[Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/javascript)|8|JS|[path](./katas/removingElements/)|[solution](./katas/removingElements/kata.js)|
 |[Regex validate PIN code](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/javascript)|7|JS|[path](./katas/regexValidatePinCode/)|[solution](./katas/regexValidatePinCode/kata.js)|
 |[String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/train/javascript)|5|JS|[path](./katas/stringIncrementer/)|[solution](./katas/stringIncrementer/kata.js)|
