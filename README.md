@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/javascript)|6|JS|[path](./katas/findTheUniqueNumber/)|[solution](./katas/findTheUniqueNumber/kata.js)|
 |[Training JS #1: create your first JS function and print "Hello World!"](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8/train/javascript)|8|JS|[path](./katas/createYourFirstJsFunctionAndPrintHelloWorld/)|[solution](./katas/createYourFirstJsFunctionAndPrintHelloWorld/kata.js)|
 |[Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/javascript)|6|JS|[path](./katas/sortTheOdd/)|[solution](./katas/sortTheOdd/kata.js)|
 |[Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/train/javascript)|7|JS|[path](./katas/onesAndZeros/)|[solution](./katas/onesAndZeros/kata.js)|
