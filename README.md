@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97/train/javascript)|8|JS|[path](./katas/differenceOfVolumesOfCuboids/)|[solution](./katas/differenceOfVolumesOfCuboids/kata.js)|
 |[Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/javascript)|6|JS|[path](./katas/findTheUniqueNumber/)|[solution](./katas/findTheUniqueNumber/kata.js)|
 |[Training JS #1: create your first JS function and print "Hello World!"](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8/train/javascript)|8|JS|[path](./katas/createYourFirstJsFunctionAndPrintHelloWorld/)|[solution](./katas/createYourFirstJsFunctionAndPrintHelloWorld/kata.js)|
 |[Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/javascript)|6|JS|[path](./katas/sortTheOdd/)|[solution](./katas/sortTheOdd/kata.js)|
