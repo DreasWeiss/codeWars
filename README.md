@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131/train/javascript)|8|JS|[path](./katas/totalAmountOfPoints/)|[solution](./katas/totalAmountOfPoints/kata.js)|
 |[Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/javascript)|7|JS|[path](./katas/beginnerSeries3SumOfNumbers/)|[solution](./katas/beginnerSeries3SumOfNumbers/kata.js)|
 |[Grasshopper - Grade book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5/train/javascript)|8|JS|[path](./katas/grasshopperGradeBook/)|[solution](./katas/grasshopperGradeBook/kata.js)|
 |[Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/train/javascript)|7|JS|[path](./katas/sortNumbers/)|[solution](./katas/sortNumbers/kata.js)|
