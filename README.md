@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/javascript)|7|JS|[path](./katas/removeTheMinimum/)|[solution](./katas/removeTheMinimum/kata.js)|
 |[Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/train/javascript)|8|JS|[path](./katas/parseNiceIntFromCharProblem/)|[solution](./katas/parseNiceIntFromCharProblem/kata.js)|
 |[Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131/train/javascript)|8|JS|[path](./katas/totalAmountOfPoints/)|[solution](./katas/totalAmountOfPoints/kata.js)|
 |[Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/javascript)|7|JS|[path](./katas/beginnerSeries3SumOfNumbers/)|[solution](./katas/beginnerSeries3SumOfNumbers/kata.js)|
