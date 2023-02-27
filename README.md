@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139/javascript)|7|JS|[path](./katas/binaryAddition/)|[solution](./katas/binaryAddition/kata.js)|
 |[Make a function that does arithmetic!](https://www.codewars.com/kata/583f158ea20cfcbeb400000a/train/javascript)|7|JS|[path](./katas/makeAFunctionThatDoesArithmetic/)|[solution](./katas/makeAFunctionThatDoesArithmetic/kata.js)|
 |[Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028/train/javascript)|8|JS|[path](./katas/powersOfTwo/)|[solution](./katas/powersOfTwo/kata.js)|
 |[Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/javascript)|7|JS|[path](./katas/removeTheMinimum/)|[solution](./katas/removeTheMinimum/kata.js)|
