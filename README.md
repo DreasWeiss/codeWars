@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Make a function that does arithmetic!](https://www.codewars.com/kata/583f158ea20cfcbeb400000a/train/javascript)|7|JS|[path](./katas/makeAFunctionThatDoesArithmetic/)|[solution](./katas/makeAFunctionThatDoesArithmetic/kata.js)|
 |[Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028/train/javascript)|8|JS|[path](./katas/powersOfTwo/)|[solution](./katas/powersOfTwo/kata.js)|
 |[Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/javascript)|7|JS|[path](./katas/removeTheMinimum/)|[solution](./katas/removeTheMinimum/kata.js)|
 |[Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/train/javascript)|8|JS|[path](./katas/parseNiceIntFromCharProblem/)|[solution](./katas/parseNiceIntFromCharProblem/kata.js)|
