@@ -1,5 +1,5 @@
 # Most frequently used words in a text
-7 kyu
+4 kyu
 [link to kata](https://www.codewars.com/kata/51e056fe544cf36c410000fb/train/javascript)
 <br>
 [my solution](./kata.js)
