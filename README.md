@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb/train/javascript)|4|JS|[path](./katas/mostFrequentlyUsedWordsInAText/)|[solution](./katas/mostFrequentlyUsedWordsInAText/kata.js)|
 |[Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040/train/javascript)|7|JS|[path](./katas/printerErrors/)|[solution](./katas/printerErrors/kata.js)|
 |[Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/javascript)|6|JS|[path](./katas/bouncingBalls/)|[solution](./katas/bouncingBalls/kata.js)|
 |[Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139/javascript)|7|JS|[path](./katas/binaryAddition/)|[solution](./katas/binaryAddition/kata.js)|
