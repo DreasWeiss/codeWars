@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040/train/javascript)|7|JS|[path](./katas/printerErrors/)|[solution](./katas/printerErrors/kata.js)|
 |[Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/javascript)|6|JS|[path](./katas/bouncingBalls/)|[solution](./katas/bouncingBalls/kata.js)|
 |[Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139/javascript)|7|JS|[path](./katas/binaryAddition/)|[solution](./katas/binaryAddition/kata.js)|
 |[Make a function that does arithmetic!](https://www.codewars.com/kata/583f158ea20cfcbeb400000a/train/javascript)|7|JS|[path](./katas/makeAFunctionThatDoesArithmetic/)|[solution](./katas/makeAFunctionThatDoesArithmetic/kata.js)|
