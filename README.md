@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript)|8|JS|[path](./katas/howGoodAreYouReally/)|[solution](./katas/howGoodAreYouReally/kata.js)|
 |[Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21/train/javascript)|4|JS|[path](./katas/addingBigNumbers/)|[solution](./katas/addingBigNumbers/kata.js)|
 |[Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb/train/javascript)|4|JS|[path](./katas/mostFrequentlyUsedWordsInAText/)|[solution](./katas/mostFrequentlyUsedWordsInAText/kata.js)|
 |[Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040/train/javascript)|7|JS|[path](./katas/printerErrors/)|[solution](./katas/printerErrors/kata.js)|
