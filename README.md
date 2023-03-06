@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/train/javascript)|7|JS|[path](./katas/removeAnchorFromUrl/)|[solution](./katas/removeAnchorFromUrl/kata.js)|
 |[Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/javascript)|8|JS|[path](./katas/doubleChar/)|[solution](./katas/doubleChar/kata.js)|
 |[L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038/train/javascript)|8|JS|[path](./katas/l1SetAlarm/)|[solution](./katas/l1SetAlarm/kata.js)|
 |[How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript)|8|JS|[path](./katas/howGoodAreYouReally/)|[solution](./katas/howGoodAreYouReally/kata.js)|
