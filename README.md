@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/javascript)|6|JS|[path](./katas/replaceWithAlphabetPosition/)|[solution](./katas/replaceWithAlphabetPosition/kata.js)|
 |[Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/train/javascript)|7|JS|[path](./katas/removeAnchorFromUrl/)|[solution](./katas/removeAnchorFromUrl/kata.js)|
 |[Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/javascript)|8|JS|[path](./katas/doubleChar/)|[solution](./katas/doubleChar/kata.js)|
 |[L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038/train/javascript)|8|JS|[path](./katas/l1SetAlarm/)|[solution](./katas/l1SetAlarm/kata.js)|
