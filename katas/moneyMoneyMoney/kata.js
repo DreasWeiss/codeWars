@@ -1,5 +1,15 @@
 function calculateYears(principal, interest, tax, desired) {
-    // your code
+    let count = 0;
+
+    while (principal < desired) {
+        let pi = principal * interest;
+        let pitax = pi - (pi * tax);
+
+        principal += pitax;
+        count++
+    }
+    return count;
+
 }
 
 
