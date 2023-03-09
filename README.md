@@ -2,7 +2,8 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
-|[Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114/train/javascript)|7|JS|[path](./katas/moneyMoneyMoney//)|[solution](./katas/moneyMoneyMoney/kata.js)|
+|[Build a pile of Cubes](https://www.codewars.com/kata/5592e3bd57b64d00f3000047/train/javascript)|6|JS|[path](./katas/buildAPileOfCubes/)|[solution](./katas/buildAPileOfCubes/kata.js)|
+|[Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114/train/javascript)|7|JS|[path](./katas/moneyMoneyMoney/)|[solution](./katas/moneyMoneyMoney/kata.js)|
 |[Vowel remover](https://www.codewars.com/kata/5547929140907378f9000039/train/javascript)|8|JS|[path](./katas/vowelRemover/)|[solution](./katas/vowelRemover/kata.js)|
 |[Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/javascript)|6|JS|[path](./katas/replaceWithAlphabetPosition/)|[solution](./katas/replaceWithAlphabetPosition/kata.js)|
 |[Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/train/javascript)|7|JS|[path](./katas/removeAnchorFromUrl/)|[solution](./katas/removeAnchorFromUrl/kata.js)|
