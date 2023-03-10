@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/javascript)|6|JS|[path](./katas/highestScoringWord/)|[solution](./katas/highestScoringWord/kata.js)|
 |[Transportation on vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016/train/javascript)|8|JS|[path](./katas/transportationOnVacation/)|[solution](./katas/transportationOnVacation/kata.js)|
 |[Build a pile of Cubes](https://www.codewars.com/kata/5592e3bd57b64d00f3000047/train/javascript)|6|JS|[path](./katas/buildAPileOfCubes/)|[solution](./katas/buildAPileOfCubes/kata.js)|
 |[Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114/train/javascript)|7|JS|[path](./katas/moneyMoneyMoney/)|[solution](./katas/moneyMoneyMoney/kata.js)|
