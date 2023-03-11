@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Reverse List Order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b/train/javascript)|8|JS|[path](./katas/reverseListOrder/)|[solution](./katas/reverseListOrder/kata.js)|
 |[Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255/train/javascript)|7|JS|[path](./katas/anagramDetection/)|[solution](./katas/anagramDetection/kata.js)|
 |[Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/javascript)|6|JS|[path](./katas/highestScoringWord/)|[solution](./katas/highestScoringWord/kata.js)|
 |[Transportation on vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016/train/javascript)|8|JS|[path](./katas/transportationOnVacation/)|[solution](./katas/transportationOnVacation/kata.js)|
