@@ -2,6 +2,8 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/javascript)|8|JS|[path](./katas/ifYouCantSleepJustCountSheep/)|[solution](./katas/ifYouCantSleepJustCountSheep/kata.js)|
+|[Sum of a sequence](https://www.codewars.com/kata/586f6741c66d18c22800010a/train/javascript)|7|JS|[path](./katas/sumOfASequence/)|[solution](./katas/sumOfASequence/kata.js)|
 |[Reverse List Order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b/train/javascript)|8|JS|[path](./katas/reverseListOrder/)|[solution](./katas/reverseListOrder/kata.js)|
 |[Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255/train/javascript)|7|JS|[path](./katas/anagramDetection/)|[solution](./katas/anagramDetection/kata.js)|
 |[Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/javascript)|6|JS|[path](./katas/highestScoringWord/)|[solution](./katas/highestScoringWord/kata.js)|
