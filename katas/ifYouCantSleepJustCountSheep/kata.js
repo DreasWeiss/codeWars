@@ -23,4 +23,3 @@ console.log(countSheep(2));
 
 console.log(countSheep(3));
 // "1 sheep...2 sheep...3 sheep...");
-
