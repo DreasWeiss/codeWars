@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/javascript)|6|JS|[path](./katas/playingWithDigits/)|[solution](./katas/playingWithDigits/kata.js)|
 |[If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/javascript)|8|JS|[path](./katas/ifYouCantSleepJustCountSheep/)|[solution](./katas/ifYouCantSleepJustCountSheep/kata.js)|
 |[Sum of a sequence](https://www.codewars.com/kata/586f6741c66d18c22800010a/train/javascript)|7|JS|[path](./katas/sumOfASequence/)|[solution](./katas/sumOfASequence/kata.js)|
 |[Reverse List Order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b/train/javascript)|8|JS|[path](./katas/reverseListOrder/)|[solution](./katas/reverseListOrder/kata.js)|
