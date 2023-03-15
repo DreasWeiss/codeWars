@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[5 without numbers !!](https://www.codewars.com/kata/59441520102eaa25260000bf/train/javascript)|8|JS|[path](./katas/five5WgithoutNumbers/)|[solution](./katas/five5WgithoutNumbers/kata.js)|
 |[Remove an exclamation mark from the end of string](https://www.codewars.com/kata/57fae964d80daa229d000126/train/javascript)|8|JS|[path](./katas/removeAnExclamationMarkFromTheEndOfString/)|[solution](./katas/removeAnExclamationMarkFromTheEndOfString/kata.js)|
 |[Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/javascript)|6|JS|[path](./katas/playingWithDigits/)|[solution](./katas/playingWithDigits/kata.js)|
 |[If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/javascript)|8|JS|[path](./katas/ifYouCantSleepJustCountSheep/)|[solution](./katas/ifYouCantSleepJustCountSheep/kata.js)|
