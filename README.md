@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/train/javascript)|8|JS|[path](./katas/beginnerSeries2Clock/)|[solution](./katas/beginnerSeries2Clock/kata.js)|
 |[Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/javascript)|8|JS|[path](./katas/sentenceSmash/)|[solution](./katas/sentenceSmash/kata.js)|
 |[Grasshopper - Basic Function Fixer](https://www.codewars.com/kata/56200d610758762fb0000002/train/javascript)|8|JS|[path](./katas/grasshopperBasicFunctionFixer/)|[solution](./katas/grasshopperBasicFunctionFixer/kata.js)|
 |[5 without numbers !!](https://www.codewars.com/kata/59441520102eaa25260000bf/train/javascript)|8|JS|[path](./katas/five5WgithoutNumbers/)|[solution](./katas/five5WgithoutNumbers/kata.js)|
