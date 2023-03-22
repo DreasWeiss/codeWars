@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Factorial](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/train/javascript)|7|JS|[path](./katas/factorial/)|[solution](./katas/factorial/kata.js)|
 |[Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/javascript)|8|JS|[path](./katas/calculateBMI/)|[solution](./katas/calculateBMI/kata.js)|
 |[Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786/train/javascript)|6|JS|[path](./katas/simpleEncryption1AlternatingSplit/)|[solution](./katas/simpleEncryption1AlternatingSplit/kata.js)|
 |[Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/train/javascript)|8|JS|[path](./katas/beginnerSeries2Clock/)|[solution](./katas/beginnerSeries2Clock/kata.js)|
