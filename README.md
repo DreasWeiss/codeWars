@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Remove First and Last Character](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/javascript)|8|JS|[path](./katas/reversedSequence/)|[solution](./katas/reversedSequence/kata.js)|
 |[Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript)|8|JS|[path](./katas/removeFirstAndLastCharacter/)|[solution](./katas/removeFirstAndLastCharacter/kata.js)|
 |[Factorial](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/train/javascript)|7|JS|[path](./katas/factorial/)|[solution](./katas/factorial/kata.js)|
 |[Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/javascript)|8|JS|[path](./katas/calculateBMI/)|[solution](./katas/calculateBMI/kata.js)|
