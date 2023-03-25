@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Count the Digit](https://www.codewars.com/kata/566fc12495810954b1000030/train/javascript)|7|JS|[path](./katas/countTheDigit/)|[solution](./katas/countTheDigit/kata.js)|
 |[Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/javascript)|6|JS|[path](./katas/yourOrderPlease/)|[solution](./katas/yourOrderPlease/kata.js)|
 |[Remove First and Last Character](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/javascript)|8|JS|[path](./katas/reversedSequence/)|[solution](./katas/reversedSequence/kata.js)|
 |[Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript)|8|JS|[path](./katas/removeFirstAndLastCharacter/)|[solution](./katas/removeFirstAndLastCharacter/kata.js)|
