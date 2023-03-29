@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db/train/javascript)|6|JS|[path](./katas/tribonacciSequence/)|[solution](./katas/tribonacciSequence/kata.js)|
 |[The Wide-Mouthed frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/train/javascript)|8|JS|[path](./katas/theWideMouthedFrog/)|[solution](./katas/theWideMouthedFrog/kata.js)|
 |[Name Shuffler](https://www.codewars.com/kata/559ac78160f0be07c200005a/train/javascript)|8|JS|[path](./katas/nameShuffler/)|[solution](./katas/nameShuffler/kata.js)|
 |[Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/javascript)|5|JS|[path](./katas/maximumSubarraySum/)|[solution](./katas/maximumSubarraySum/kata.js)|
