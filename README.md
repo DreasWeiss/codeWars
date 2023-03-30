@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Find the middle element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/train/javascript)|7|JS|[path](./katas/findTheMiddleElement/)|[solution](./katas/findTheMiddleElement/kata.js)|
 |[Write Number in Expanded Form](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript)|6|JS|[path](./katas/writeNumberInExpandedForm/)|[solution](./katas/writeNumberInExpandedForm/kata.js)|
 |[Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript)|8|JS|[path](./katas/beginnerReduceButGrow/)|[solution](./katas/beginnerReduceButGrow/kata.js)|
 |[Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db/train/javascript)|6|JS|[path](./katas/tribonacciSequence/)|[solution](./katas/tribonacciSequence/kata.js)|
