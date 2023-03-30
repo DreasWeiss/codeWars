@@ -2,6 +2,7 @@
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript)|8|JS|[path](./katas/beginnerReduceButGrow/)|[solution](./katas/beginnerReduceButGrow/kata.js)|
 |[Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db/train/javascript)|6|JS|[path](./katas/tribonacciSequence/)|[solution](./katas/tribonacciSequence/kata.js)|
 |[The Wide-Mouthed frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/train/javascript)|8|JS|[path](./katas/theWideMouthedFrog/)|[solution](./katas/theWideMouthedFrog/kata.js)|
 |[Name Shuffler](https://www.codewars.com/kata/559ac78160f0be07c200005a/train/javascript)|8|JS|[path](./katas/nameShuffler/)|[solution](./katas/nameShuffler/kata.js)|
