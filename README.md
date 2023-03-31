@@ -1,5 +1,7 @@
 ![my badge from codewars](https://www.codewars.com/users/DreasWeiss/badges/large)
 
+Code Wars is an online coding platform that helps users learn programming by solving challenges, competing with each other in real-time game tournaments and connecting to a community of coders from around the world. Code Warriors can practice their skills through interactive tutorials while also being able to compete against one another for prizes!
+
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
 |[Find the middle element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/train/javascript)|7|JS|[path](./katas/findTheMiddleElement/)|[solution](./katas/findTheMiddleElement/kata.js)|
