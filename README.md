@@ -4,6 +4,7 @@ Code Wars is an online coding platform that helps users learn programming by sol
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062/train/javascript)|5|JS|[path](./katas/ROT13/)|[solution](./katas/ROT13/kata.js)|
 |[Find the middle element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/train/javascript)|7|JS|[path](./katas/findTheMiddleElement/)|[solution](./katas/findTheMiddleElement/kata.js)|
 |[Write Number in Expanded Form](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript)|6|JS|[path](./katas/writeNumberInExpandedForm/)|[solution](./katas/writeNumberInExpandedForm/kata.js)|
 |[Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript)|8|JS|[path](./katas/beginnerReduceButGrow/)|[solution](./katas/beginnerReduceButGrow/kata.js)|
