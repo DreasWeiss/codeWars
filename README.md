@@ -2,6 +2,8 @@
 
 Code Wars is an online coding platform that helps users learn programming by solving challenges, competing with each other in real-time game tournaments and connecting to a community of coders from around the world. Code Warriors can practice their skills through interactive tutorials while also being able to compete against one another for prizes!
 
+tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kata-solution codewars-javascript
+
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
 |[ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062/train/javascript)|5|JS|[path](./katas/ROT13/)|[solution](./katas/ROT13/kata.js)|
