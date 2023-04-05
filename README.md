@@ -6,6 +6,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Find the missing letter](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript)|6|JS|[path](./katas/findTheMissingLetter/)|[solution](./katas/findTheMissingLetter/kata.js)|
 |[Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript)|8|JS|[path](./katas/removeStringSpaces/)|[solution](./katas/removeStringSpaces/kata.js)|
 |[Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript)|6|JS|[path](./katas/splitStrings/)|[solution](./katas/splitStrings/kata.js)|
 |[ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062/train/javascript)|5|JS|[path](./katas/ROT13/)|[solution](./katas/ROT13/kata.js)|
