@@ -6,6 +6,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba/train/javascript)|7|JS|[path](./katas/debugSumOfDigitsOfANumber/)|[solution](./katas/debugSumOfDigitsOfANumber/kata.js)|
 |[Last digit of a large number](https://www.codewars.com/kata/5511b2f550906349a70004e1/train/javascript)|5|JS|[path](./katas/lastDigitOfALargeNumber/)|[solution](./katas/lastDigitOfALargeNumber/kata.js)|
 |[Find the missing letter](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript)|6|JS|[path](./katas/findTheMissingLetter/)|[solution](./katas/findTheMissingLetter/kata.js)|
 |[Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript)|8|JS|[path](./katas/removeStringSpaces/)|[solution](./katas/removeStringSpaces/kata.js)|
