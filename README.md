@@ -6,6 +6,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/javascript)|7|JS|[path](./katas/creditCardMask/)|[solution](./katas/creditCardMask/kata.js)|
 |[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/javascript)|6|JS|[path](./katas/stopGninnipsMySdrow!/)|[solution](./katas/stopGninnipsMySdrow!/kata.js)|
 |[Pair of gloves](https://www.codewars.com/kata/58235a167a8cb37e1a0000db/javascript)|6|JS|[path](./katas/pairOfGloves/)|[solution](./katas/pairOfGloves/kata.js)|
 |[Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba/train/javascript)|7|JS|[path](./katas/debugSumOfDigitsOfANumber/)|[solution](./katas/debugSumOfDigitsOfANumber/kata.js)|
