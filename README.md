@@ -1,4 +1,6 @@
-![my badge from codewars](https://www.codewars.com/users/DreasWeiss/badges/large)
+[![my badge from codewars + link to codewars profile](https://www.codewars.com/users/DreasWeiss/badges/large)](https://www.codewars.com/users/DreasWeiss)
+
+Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.
 
 Code Wars is an online coding platform that helps users learn programming by solving challenges, competing with each other in real-time game tournaments and connecting to a community of coders from around the world. Code Warriors can practice their skills through interactive tutorials while also being able to compete against one another for prizes!
 
