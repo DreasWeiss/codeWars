@@ -6,6 +6,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Length of missing array](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611/train/javascript)|6|JS|[path](./katas/lengthOfMissingArray/)|[solution](./katas/lengthOfMissingArray/kata.js)|
 |[Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/javascript)|7|JS|[path](./katas/creditCardMask/)|[solution](./katas/creditCardMask/kata.js)|
 |[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/javascript)|6|JS|[path](./katas/stopGninnipsMySdrow!/)|[solution](./katas/stopGninnipsMySdrow!/kata.js)|
 |[Pair of gloves](https://www.codewars.com/kata/58235a167a8cb37e1a0000db/javascript)|6|JS|[path](./katas/pairOfGloves/)|[solution](./katas/pairOfGloves/kata.js)|
