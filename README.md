@@ -8,6 +8,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/javascript)|6|JS|[path](./katas/romanNumeralsEncoder/)|[solution](./katas/romanNumeralsEncoder/kata.js)|
 |[Remove the parentheses](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8/train/javascript)|6|JS|[path](./katas/removeTheParentheses/)|[solution](./katas/removeTheParentheses/kata.js)|
 |[Head, Tail, Init and Last](https://www.codewars.com/kata/54592a5052756d5c5d0009c3/train/javascript)|7|JS|[path](./katas/headTailInitAndLast/)|[solution](./katas/headTailInitAndLast/kata.js)|
 |[Length of missing array](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611/train/javascript)|6|JS|[path](./katas/lengthOfMissingArray/)|[solution](./katas/lengthOfMissingArray/kata.js)|
