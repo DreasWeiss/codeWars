@@ -8,6 +8,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/javascript)|6|JS|[path](./katas/convertStringToCamelCase/)|[solution](./katas/convertStringToCamelCase/kata.js)|
 |[Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/train/javascript)|7|JS|[path](./katas/findTheNextPerfectSquare/)|[solution](./katas/findTheNextPerfectSquare/kata.js)|
 |[Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/javascript)|6|JS|[path](./katas/romanNumeralsEncoder/)|[solution](./katas/romanNumeralsEncoder/kata.js)|
 |[Remove the parentheses](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8/train/javascript)|6|JS|[path](./katas/removeTheParentheses/)|[solution](./katas/removeTheParentheses/kata.js)|
