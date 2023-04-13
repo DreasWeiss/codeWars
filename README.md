@@ -8,6 +8,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Will you make it?](https://www.codewars.com/kata/5861d28f124b35723e00005e/train/javascript)|8|JS|[path](./katas/willYouMakeIt/)|[solution](./katas/willYouMakeIt/kata.js)|
 |[Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f/train/javascript)|6|JS|[path](./katas/isANumberPrime/)|[solution](./katas/isANumberPrime/kata.js)|
 |[Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00/train/javascript)|6|JS|[path](./katas/sumOfDigitsDigitalRoot/)|[solution](./katas/sumOfDigitsDigitalRoot/kata.js)|
 |[Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/javascript)|6|JS|[path](./katas/doesMyNumberLookBigInThis/)|[solution](./katas/doesMyNumberLookBigInThis/kata.js)|
