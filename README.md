@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Sum of all arguments](https://www.codewars.com/kata/540c33513b6532cd58000259/train/javascript)|7|JS|[path](./katas/sumOfAllArguments/)|[solution](./katas/sumOfAllArguments/kata.js)|
 |[Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/javascript)|6|JS|[path](./katas/countCharactersInYourString/)|[solution](./katas/countCharactersInYourString/kata.js)|
 |[CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196/train/javascript)|6|JS|[path](./katas/camelcaseMethod/)|[solution](./katas/camelcaseMethod/kata.js)|
 |[String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript)|8|JS|[path](./katas/stringRepeat/)|[solution](./katas/stringRepeat/kata.js)|
