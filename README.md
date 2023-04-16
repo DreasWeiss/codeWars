@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/javascript)|5|JS|[path](./katas/simplePigLatin/)|[solution](./katas/simplePigLatin/kata.js)|
 |[Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/javascript)|8|JS|[path](./katas/centuryFromYear/)|[solution](./katas/centuryFromYear/kata.js)|
 |[Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/train/javascript)|8|JS|[path](./katas/sumMixedArray/)|[solution](./katas/sumMixedArray/kata.js)|
 |[Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/javascript)|8|JS|[path](./katas/calculateAverage/)|[solution](./katas/calculateAverage/kata.js)|
