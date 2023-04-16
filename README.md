@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/javascript)|6|JS|[path](./katas/countCharactersInYourString/)|[solution](./katas/countCharactersInYourString/kata.js)|
 |[CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196/train/javascript)|6|JS|[path](./katas/camelcaseMethod/)|[solution](./katas/camelcaseMethod/kata.js)|
 |[String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript)|8|JS|[path](./katas/stringRepeat/)|[solution](./katas/stringRepeat/kata.js)|
 |[Find numbers which are divisible by given number](https://www.codewars.com/kata/55edaba99da3a9c84000003b/train/javascript)|8|JS|[path](./katas/findNumbersWhichAreDivisibleByGivenNumber/)|[solution](./katas/findNumbersWhichAreDivisibleByGivenNumber/kata.js)|
