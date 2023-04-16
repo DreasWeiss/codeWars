@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Find numbers which are divisible by given number](https://www.codewars.com/kata/55edaba99da3a9c84000003b/train/javascript)|8|JS|[path](./katas/findNumbersWhichAreDivisibleByGivenNumber/)|[solution](./katas/findNumbersWhichAreDivisibleByGivenNumber/kata.js)|
 |[Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/javascript)|5|JS|[path](./katas/simplePigLatin/)|[solution](./katas/simplePigLatin/kata.js)|
 |[Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/javascript)|8|JS|[path](./katas/centuryFromYear/)|[solution](./katas/centuryFromYear/kata.js)|
 |[Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/train/javascript)|8|JS|[path](./katas/sumMixedArray/)|[solution](./katas/sumMixedArray/kata.js)|
