@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/javascript)|8|JS|[path](./katas/calculateAverage/)|[solution](./katas/calculateAverage/kata.js)|
 |[Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript)|8|JS|[path](./katas/oppositeNumber/)|[solution](./katas/oppositeNumber/kata.js)|
 |[Will you make it?](https://www.codewars.com/kata/5861d28f124b35723e00005e/train/javascript)|8|JS|[path](./katas/willYouMakeIt/)|[solution](./katas/willYouMakeIt/kata.js)|
 |[Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f/train/javascript)|6|JS|[path](./katas/isANumberPrime/)|[solution](./katas/isANumberPrime/kata.js)|
