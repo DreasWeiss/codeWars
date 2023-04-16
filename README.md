@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/javascript)|7|JS|[path](./katas/shortestWord/)|[solution](./katas/shortestWord/kata.js)|
 |[Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript)|5|JS|[path](./katas/movingZerosToTheEnd/)|[solution](./katas/movingZerosToTheEnd/kata.js)|
 |[Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/javascript)|8|JS|[path](./katas/abbreviateATwoWordName/)|[solution](./katas/abbreviateATwoWordName/kata.js)|
 |[Sum of all arguments](https://www.codewars.com/kata/540c33513b6532cd58000259/train/javascript)|7|JS|[path](./katas/sumOfAllArguments/)|[solution](./katas/sumOfAllArguments/kata.js)|
