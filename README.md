@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e/train/javascript)|6|JS|[path](./katas/decodeTheMorseCode/)|[solution](./katas/decodeTheMorseCode/kata.js)|
 |[Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/train/javascript)|8|JS|[path](./katas/filterOutTheGeese/)|[solution](./katas/filterOutTheGeese/kata.js)|
 |[Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/javascript)|7|JS|[path](./katas/shortestWord/)|[solution](./katas/shortestWord/kata.js)|
 |[Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript)|5|JS|[path](./katas/movingZerosToTheEnd/)|[solution](./katas/movingZerosToTheEnd/kata.js)|
