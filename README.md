@@ -10,7 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
-|[Replicate the password generator](https://www.codewars.com/kata/63b1dec789ef8a3719a75ded/train/javascript)|Beta|JS|[path](./katas/findOutWhetherTheShapeIsACube/)|[solution](./katas/findOutWhetherTheShapeIsACube/kata.js)|
+|[Replicate the password generator](https://www.codewars.com/kata/63b1dec789ef8a3719a75ded/train/javascript)|Beta|JS|[path](./katas/replicateThePasswordGenerator/)|[solution](./katas/replicateThePasswordGenerator/kata.js)|
 |[Find out whether the shape is a cube](https://www.codewars.com/kata/58d248c7012397a81800005c/train/javascript)|8|JS|[path](./katas/findOutWhetherTheShapeIsACube/)|[solution](./katas/findOutWhetherTheShapeIsACube/kata.js)|
 |[Arithmetic progression](https://www.codewars.com/kata/55caf1fd8063ddfa8e000018/train/javascript)|7|JS|[path](./katas/arithmeticProgression/)|[solution](./katas/arithmeticProgression/kata.js)|
 |[Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e/train/javascript)|6|JS|[path](./katas/decodeTheMorseCode/)|[solution](./katas/decodeTheMorseCode/kata.js)|
