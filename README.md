@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Find out whether the shape is a cube](https://www.codewars.com/kata/58d248c7012397a81800005c/train/javascript)|8|JS|[path](./katas/findOutWhetherTheShapeIsACube/)|[solution](./katas/findOutWhetherTheShapeIsACube/kata.js)|
 |[Arithmetic progression](https://www.codewars.com/kata/55caf1fd8063ddfa8e000018/train/javascript)|7|JS|[path](./katas/arithmeticProgression/)|[solution](./katas/arithmeticProgression/kata.js)|
 |[Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e/train/javascript)|6|JS|[path](./katas/decodeTheMorseCode/)|[solution](./katas/decodeTheMorseCode/kata.js)|
 |[Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/train/javascript)|8|JS|[path](./katas/filterOutTheGeese/)|[solution](./katas/filterOutTheGeese/kata.js)|
