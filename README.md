@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[The Office I - Outed](https://www.codewars.com/kata/555eded1ad94b00403000071/train/javascript)|7|JS|[path](./katas/theOfficeIOuted/)|[solution](./katas/theOfficeIOuted/kata.js)|
 |[Sum of the first nth term of Series](https://www.codewars.com/kata/555eded1ad94b00403000071/train/javascript)|7|JS|[path](./katas/sumOfTheFirstNthTermOfSeries/)|[solution](./katas/sumOfTheFirstNthTermOfSeries/kata.js)|
 |[Replicate the password generator](https://www.codewars.com/kata/63b1dec789ef8a3719a75ded/train/javascript)|Beta|JS|[path](./katas/replicateThePasswordGenerator/)|[solution](./katas/replicateThePasswordGenerator/kata.js)|
 |[Find out whether the shape is a cube](https://www.codewars.com/kata/58d248c7012397a81800005c/train/javascript)|8|JS|[path](./katas/findOutWhetherTheShapeIsACube/)|[solution](./katas/findOutWhetherTheShapeIsACube/kata.js)|
