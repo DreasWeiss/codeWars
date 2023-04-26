@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Find Cracker.](https://www.codewars.com/kata/59f70440bee845599c000085/train/javascript)|6|JS|[path](./katas/findCracker/)|[solution](./katas/findCracker/kata.js)|
 |[Let's do a fun graph](https://www.codewars.com/kata/6444f6b558ed4813e8b70d43/train/javascript)|6|JS|[path](./katas/letsDoAFunGraph/)|[solution](./katas/letsDoAFunGraph/kata.js)|
 |[Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript)|7|JS|[path](./katas/disemvowelTrolls/)|[solution](./katas/disemvowelTrolls/kata.js)|
 |[Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075/train/javascript)|7|JS|[path](./katas/alternateCapitalization/)|[solution](./katas/alternateCapitalization/kata.js)|
