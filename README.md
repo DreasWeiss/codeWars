@@ -10,7 +10,8 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
-|[Don't Drink the Water](https://www.codewars.com/kata/5a86073fb17101e453000258/train/javascript)|5|JS|[path](./katas/dontDrinkTheWater/)|[solution](./katas/dontDrinkTheWater/kata.js)|
+|[Make a spiral](https://www.codewars.com/kata/5a86073fb17101e453000258/train/javascript)|3|JS|[path](./katas/makeASpiral/)|[solution](./katas/makeASpiral/kata.js)|
+|[Don't Drink the Water](https://www.codewars.com/kata/562e6df5cf2d3908ad00019e/train/javascript)|5|JS|[path](./katas/dontDrinkTheWater/)|[solution](./katas/dontDrinkTheWater/kata.js)|
 |[Emotional Sort ( ︶︿︶)](https://www.codewars.com/kata/5a86073fb17101e453000258/train/javascript)|6|JS|[path](./katas/emotionalSort/)|[solution](./katas/emotionalSort/kata.js)|
 |[Find Cracker.](https://www.codewars.com/kata/59f70440bee845599c000085/train/javascript)|6|JS|[path](./katas/findCracker/)|[solution](./katas/findCracker/kata.js)|
 |[Let's do a fun graph](https://www.codewars.com/kata/6444f6b558ed4813e8b70d43/train/javascript)|6|JS|[path](./katas/letsDoAFunGraph/)|[solution](./katas/letsDoAFunGraph/kata.js)|
