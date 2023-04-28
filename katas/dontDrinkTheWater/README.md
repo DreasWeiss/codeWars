@@ -1,6 +1,6 @@
 # Don't Drink the Water
 5 kyu
-[link to kata](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/javascript)
+[link to kata](https://www.codewars.com/kata/562e6df5cf2d3908ad00019e/train/javascript)
 <br>
 [my solution](./kata.js)
 
