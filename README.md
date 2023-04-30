@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Remove First and Last Character Part Two](https://www.codewars.com/kata/570597e258b58f6edc00230d/train/javascript)|8|JS|[path](./katas/removeFirstAndLastCharacterPartTwo/)|[solution](./katas/removeFirstAndLastCharacterPartTwo/kata.js)|
 |[Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e/train/javascript)|4|JS|[path](./katas/nextBiggerNumberWithTheSameDigits/)|[solution](./katas/nextBiggerNumberWithTheSameDigits/kata.js)|
 |[Make a spiral](https://www.codewars.com/kata/5a86073fb17101e453000258/train/javascript)|3|JS|[path](./katas/makeASpiral/)|[solution](./katas/makeASpiral/kata.js)|
 |[Don't Drink the Water](https://www.codewars.com/kata/562e6df5cf2d3908ad00019e/train/javascript)|5|JS|[path](./katas/dontDrinkTheWater/)|[solution](./katas/dontDrinkTheWater/kata.js)|
