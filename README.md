@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/javascript)|7|JS|[path](./katas/numberOfPeopleInTheBus/)|[solution](./katas/numberOfPeopleInTheBus/kata.js)|
 |[Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/train/javascript)|4|JS|[path](./katas/removeFirstAndLastCharacterPartTwo/)|[solution](./katas/removeFirstAndLastCharacterPartTwo/kata.js)|
 |[Remove First and Last Character Part Two](https://www.codewars.com/kata/570597e258b58f6edc00230d/train/javascript)|8|JS|[path](./katas/removeFirstAndLastCharacterPartTwo/)|[solution](./katas/removeFirstAndLastCharacterPartTwo/kata.js)|
 |[Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e/train/javascript)|4|JS|[path](./katas/nextBiggerNumberWithTheSameDigits/)|[solution](./katas/nextBiggerNumberWithTheSameDigits/kata.js)|
