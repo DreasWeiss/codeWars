@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Get Nth Even Number](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed/train/javascript)|8|JS|[path](./katas/getNthEvenNumber/)|[solution](./katas/getNthEvenNumber/kata.js)|
 |[Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/javascript)|7|JS|[path](./katas/numberOfPeopleInTheBus/)|[solution](./katas/numberOfPeopleInTheBus/kata.js)|
 |[Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/train/javascript)|4|JS|[path](./katas/removeFirstAndLastCharacterPartTwo/)|[solution](./katas/removeFirstAndLastCharacterPartTwo/kata.js)|
 |[Remove First and Last Character Part Two](https://www.codewars.com/kata/570597e258b58f6edc00230d/train/javascript)|8|JS|[path](./katas/removeFirstAndLastCharacterPartTwo/)|[solution](./katas/removeFirstAndLastCharacterPartTwo/kata.js)|
