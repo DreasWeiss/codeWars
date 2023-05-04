@@ -1,6 +1,6 @@
 # Find your caterer
 7 kyu
-[link to kata](https://www.codewars.com/kata/6402205dca1e64004b22b8de)
+[link to kata](https://www.codewars.com/kata/6402205dca1e64004b22b8de/train/javascript)
 <br>
 [my solution](./kata.js)
 
