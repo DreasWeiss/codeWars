@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Grasshopper - Debug sayHello](https://www.codewars.com/kata/5625618b1fe21ab49f00001f/train/javascript)|8|JS|[path](./katas/grasshopperDebugSayhello/)|[solution](./katas/grasshopperDebugSayhello/kata.js)|
 |[Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/javascript)|8|JS|[path](./katas/convertABooleanToAString/)|[solution](./katas/convertABooleanToAString/kata.js)|
 |[Find your caterer](https://www.codewars.com/kata/6402205dca1e64004b22b8de/train/javascript)|7|JS|[path](./katas/findYourCaterer/)|[solution](./katas/findYourCaterer/kata.js)|
 |[Get Nth Even Number](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed/train/javascript)|8|JS|[path](./katas/getNthEvenNumber/)|[solution](./katas/getNthEvenNumber/kata.js)|
