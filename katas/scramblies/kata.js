@@ -1,3 +1,18 @@
+// #1
+// function scramble(str1, str2) {
+//     var hashtab = [...new Array(256)].map(x => 0);
+//     console.table(hashtab)
+
+//     str2.split('').forEach(ele => hashtab[ele.charCodeAt(0)]++);
+//     str1.split('').forEach(ele => hashtab[ele.charCodeAt(0)]--);
+
+//     hashtab = hashtab.filter (x=>x > 0);
+
+//     return hashtab.length == 0;
+//   }
+
+
+// #2
 function scramble(str1, str2) {
     let a = str1.split("").reduce((arr, cur) => { arr[cur] ? arr[cur]++ : arr[cur] = 1; return arr; }, {});
     return str2.split("").every((i) => --a[i] >= 0);
