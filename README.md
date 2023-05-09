@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Sort rectangles and circles by area II](https://www.codewars.com/kata/5a1ebc2480171f29cf0000e5/train/javascript)|7|JS|[path](./katas/sortRectanglesAndCirclesByAreaIi/)|[solution](./katas/sortRectanglesAndCirclesByAreaIi/kata.js)|
 |[The Span Function](https://www.codewars.com/kata/54f2f335cb9d99e8530008d7/train/javascript)|7|JS|[path](./katas/theSpanFunction/)|[solution](./katas/theSpanFunction/kata.js)|
 |[Sum The Strings](https://www.codewars.com/kata/5966e33c4e686b508700002d/train/javascript)|8|JS|[path](./katas/sumTheStrings/)|[solution](./katas/sumTheStrings/kata.js)|
 |[Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/javascript)|5|JS|[path](./katas/scramblies/)|[solution](./katas/scramblies/kata.js)|
