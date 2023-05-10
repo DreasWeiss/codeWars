@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Take the Derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2/train/javascript)|8|JS|[path](./katas/takeTheDerivative/)|[solution](./katas/takeTheDerivative/kata.js)|
 |[99 Bottles of Beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba/train/javascript)|7|JS|[path](./katas/99BottlesOfBeer/)|[solution](./katas/99BottlesOfBeer/kata.js)|
 |[Sort rectangles and circles by area II](https://www.codewars.com/kata/5a1ebc2480171f29cf0000e5/train/javascript)|7|JS|[path](./katas/sortRectanglesAndCirclesByAreaIi/)|[solution](./katas/sortRectanglesAndCirclesByAreaIi/kata.js)|
 |[The Span Function](https://www.codewars.com/kata/54f2f335cb9d99e8530008d7/train/javascript)|7|JS|[path](./katas/theSpanFunction/)|[solution](./katas/theSpanFunction/kata.js)|
