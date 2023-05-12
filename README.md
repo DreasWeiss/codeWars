@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Remove All The Marked Elements of a List](https://www.codewars.com/kata/563089b9b7be03472d00002b/train/javascript)|7|JS|[path](./katas/removeAllTheMarkedElementsOfAList/)|[solution](./katas/removeAllTheMarkedElementsOfAList/kata.js)|
 |[Is there a vowel in there?](https://www.codewars.com/kata/57cff961eca260b71900008f/train/javascript)|8|JS|[path](./katas/isThereAVowelInThere/)|[solution](./katas/isThereAVowelInThere/kata.js)|
 |[Salesman's Travel](https://www.codewars.com/kata/56af1a20509ce5b9b000001e/train/javascript)|6|JS|[path](./katas/salesmansTravel/)|[solution](./katas/salesmansTravel/kata.js)|
 |[Take the Derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2/train/javascript)|8|JS|[path](./katas/takeTheDerivative/)|[solution](./katas/takeTheDerivative/kata.js)|
