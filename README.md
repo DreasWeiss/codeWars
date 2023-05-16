@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Most Likely](https://www.codewars.com/kata/525f50e3b73515a6db000b83/solutions/javascript)|7|JS|[path](./katas/mostLikely/)|[solution](./katas/mostLikely/kata.js)|
 |[Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript)|6|JS|[path](./katas/createPhoneNumber/)|[solution](./katas/createPhoneNumber/kata.js)|
 |[Likes Vs Dislikes](https://www.codewars.com/kata/62ad72443809a4006998218a/train/javascript)|7|JS|[path](./katas/likesVsDislikes/)|[solution](./katas/likesVsDislikes/kata.js)|
 |[Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c/train/javascript)|8|JS|[path](./katas/keepHydrated/)|[solution](./katas/keepHydrated/kata.js)|
