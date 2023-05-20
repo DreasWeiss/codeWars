@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[ES6 string addition](https://www.codewars.com/kata/582e4c3406e37fcc770001ad/train/javascript)|8|JS|[path](./katas/es6StringAddition/)|[solution](./katas/es6StringAddition/kata.js)|
 |[Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390/train/javascript)|8|JS|[path](./katas/jennysSecretMessage/)|[solution](./katas/jennysSecretMessage/kata.js)|
 |[Reverse Vowels In A String](https://www.codewars.com/kata/585db3e8eec141ce9a00008f/train/javascript)|6|JS|[path](./katas/reverseVowelsInAString/)|[solution](./katas/reverseVowelsInAString/kata.js)|
 |[Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript)|6|JS|[path](./katas/createPhoneNumber/)|[solution](./katas/createPhoneNumber/kata.js)|
