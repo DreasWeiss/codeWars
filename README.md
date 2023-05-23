@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/javascript)|7|JS|[path](./katas/getTheMiddleCharacter/)|[solution](./katas/getTheMiddleCharacter/kata.js)|
 |[Reverse a number in any base](https://www.codewars.com/kata/6469e4c905eaefffd44b6504/train/javascript)|7|JS|[path](./katas/reverseANumberInAnyBase/)|[solution](./katas/reverseANumberInAnyBase/kata.js)|
 |[Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005/train/javascript)|6|JS|[path](./katas/romanNumeralsDecoder/)|[solution](./katas/romanNumeralsDecoder/kata.js)|
 |[Running out of space](https://www.codewars.com/kata/56576f82ab83ee8268000059/train/javascript)|7|JS|[path](./katas/runningOutOfSpace/)|[solution](./katas/runningOutOfSpace/kata.js)|
