@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989/train/javascript)|8|JS|[path](./katas/findMaximumAndMinimumValuesOfAList/)|[solution](./katas/findMaximumAndMinimumValuesOfAList/kata.js)|
 |[Super Duper Easy](https://www.codewars.com/kata/55a5bfaa756cfede78000026/train/javascript)|8|JS|[path](./katas/superDuperEasy/)|[solution](./katas/superDuperEasy/kata.js)|
 |[Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/train/javascript)|8|JS|[path](./katas/isTheStringUppercase/)|[solution](./katas/isTheStringUppercase/kata.js)|
 |[Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/javascript)|7|JS|[path](./katas/getTheMiddleCharacter/)|[solution](./katas/getTheMiddleCharacter/kata.js)|
