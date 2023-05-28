@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6/train/javascript)|8|JS|[path](./katas/countOddNumbersBelowN/)|[solution](./katas/countOddNumbersBelowN/kata.js)|
 |[N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db/train/javascript)|8|JS|[path](./katas/nthPower/)|[solution](./katas/nthPower/kata.js)|
 |[Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989/train/javascript)|8|JS|[path](./katas/findMaximumAndMinimumValuesOfAList/)|[solution](./katas/findMaximumAndMinimumValuesOfAList/kata.js)|
 |[Super Duper Easy](https://www.codewars.com/kata/55a5bfaa756cfede78000026/train/javascript)|8|JS|[path](./katas/superDuperEasy/)|[solution](./katas/superDuperEasy/kata.js)|
