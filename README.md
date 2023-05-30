@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Sum - Square Even, Root Odd](https://www.codewars.com/kata/5a4b16435f08299c7000274f/train/javascript)|7|JS|[path](./katas/sumSquareEvenRootOdd/)|[solution](./katas/sumSquareEvenRootOdd/kata.js)|
 |[Pillars](https://www.codewars.com/kata/5bb0c58f484fcd170700063d/train/javascript)|8|JS|[path](./katas/pillars/)|[solution](./katas/pillars/kata.js)|
 |[Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6/train/javascript)|8|JS|[path](./katas/countOddNumbersBelowN/)|[solution](./katas/countOddNumbersBelowN/kata.js)|
 |[N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db/train/javascript)|8|JS|[path](./katas/nthPower/)|[solution](./katas/nthPower/kata.js)|
