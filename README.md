@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Simple remove duplicates](https://www.codewars.com/kata/5ba38ba180824a86850000f7/train/javascript)|7|JS|[path](./katas/simpleRemoveDuplicates/)|[solution](./katas/simpleRemoveDuplicates/kata.js)|
 |[Length and two values.](https://www.codewars.com/kata/62a611067274990047f431a8/train/javascript)|7|JS|[path](./katas/lengthAndTwoValues/)|[solution](./katas/lengthAndTwoValues/kata.js)|
 |[Sum - Square Even, Root Odd](https://www.codewars.com/kata/5a4b16435f08299c7000274f/train/javascript)|7|JS|[path](./katas/sumSquareEvenRootOdd/)|[solution](./katas/sumSquareEvenRootOdd/kata.js)|
 |[Pillars](https://www.codewars.com/kata/5bb0c58f484fcd170700063d/train/javascript)|8|JS|[path](./katas/pillars/)|[solution](./katas/pillars/kata.js)|
