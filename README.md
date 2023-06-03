@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[No ifs no buts](https://www.codewars.com/kata/592915cc1fad49252f000006/train/javascript)|7|JS|[path](./katas/noIfsNoButs/)|[solution](./katas/noIfsNoButs/kata.js)|
 |[Adding Arrays](https://www.codewars.com/kata/59778cb1b061e877c50000cc/train/javascript)|7|JS|[path](./katas/addingArrays/)|[solution](./katas/addingArrays/kata.js)|
 |[Simple remove duplicates](https://www.codewars.com/kata/5ba38ba180824a86850000f7/train/javascript)|7|JS|[path](./katas/simpleRemoveDuplicates/)|[solution](./katas/simpleRemoveDuplicates/kata.js)|
 |[Length and two values.](https://www.codewars.com/kata/62a611067274990047f431a8/train/javascript)|7|JS|[path](./katas/lengthAndTwoValues/)|[solution](./katas/lengthAndTwoValues/kata.js)|
