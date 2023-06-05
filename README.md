@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Product of Largest Pair](https://www.codewars.com/kata/5784c89be5553370e000061b/train/javascript)|7|JS|[path](./katas/productOfLargestPair/)|[solution](./katas/productOfLargestPair/kata.js)|
 |[Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)|7|JS|[path](./katas/arrayPlusArray/)|[solution](./katas/arrayPlusArray/kata.js)|
 |[No ifs no buts](https://www.codewars.com/kata/592915cc1fad49252f000006/train/javascript)|7|JS|[path](./katas/noIfsNoButs/)|[solution](./katas/noIfsNoButs/kata.js)|
 |[Adding Arrays](https://www.codewars.com/kata/59778cb1b061e877c50000cc/train/javascript)|7|JS|[path](./katas/addingArrays/)|[solution](./katas/addingArrays/kata.js)|
