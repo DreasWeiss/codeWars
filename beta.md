@@ -8,9 +8,9 @@ Code Wars is an online coding platform that helps users learn programming by sol
 
 tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kata-solution codewars-javascript
 
-[All](README.md) | [3 kui](3kui.md) | [4 kui](4kui.md) | [5 kui](5kui.md) | [6 kui](6kui.md) | [7 kui](7kui.md) | [8 kui](8kui.md) | ***[Beta](beta.md)***
+[All](README.md) | [3 kyu](3kyu.md) | [4 kyu](4kyu.md) | [5 kyu](5kyu.md) | [6 kyu](6kyu.md) | [7 kyu](7kyu.md) | [8 kyu](8kyu.md) | ***[Beta](beta.md)***
 
-### Beta kui
+### Beta kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
 |[Replicate the password generator](https://www.codewars.com/kata/63b1dec789ef8a3719a75ded/train/javascript)|Beta|JS|[path](./katas/replicateThePasswordGenerator/)|[solution](./katas/replicateThePasswordGenerator/kata.js)|

@@ -8,9 +8,9 @@ Code Wars is an online coding platform that helps users learn programming by sol
 
 tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kata-solution codewars-javascript
 
-[All](README.md) | [3 kui](3kui.md) | [4 kui](4kui.md) | ***[5 kui](5kui.md)*** | [6 kui](6kui.md) | [7 kui](7kui.md) | [8 kui](8kui.md) | [Beta](beta.md)
+[All](README.md) | [3 kyu](3kyu.md) | [4 kyu](4kyu.md) | ***[5 kyu](5kyu.md)*** | [6 kyu](6kyu.md) | [7 kyu](7kyu.md) | [8 kyu](8kyu.md) | [Beta](beta.md)
 
-### 5 kui
+### 5 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
 |[Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/javascript)|5|JS|[path](./katas/scramblies/)|[solution](./katas/scramblies/kata.js)|
