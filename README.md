@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript)|7|JS|[path](./katas/isograms/)|[solution](./katas/isograms/kata.js)|
 |[Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript)|6|JS|[path](./katas/multiplesOf3Or5/)|[solution](./katas/multiplesOf3Or5/kata.js)|
 |[Anagram difference](https://www.codewars.com/kata/5b1b27c8f60e99a467000041/train/javascript)|6|JS|[path](./katas/anagramDifference/)|[solution](./katas/anagramDifference/kata.js)|
 |[Did she say hallo?](https://www.codewars.com/kata/56a4addbfd4a55694100001f/train/javascript)|8|JS|[path](./katas/didSheSayHallo/)|[solution](./katas/didSheSayHallo/kata.js)|
