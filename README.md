@@ -10,6 +10,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Anagram difference](https://www.codewars.com/kata/5b1b27c8f60e99a467000041/train/javascript)|6|JS|[path](./katas/anagramDifference/)|[solution](./katas/anagramDifference/kata.js)|
 |[Did she say hallo?](https://www.codewars.com/kata/56a4addbfd4a55694100001f/train/javascript)|8|JS|[path](./katas/didSheSayHallo/)|[solution](./katas/didSheSayHallo/kata.js)|
 |[Product of Largest Pair](https://www.codewars.com/kata/5784c89be5553370e000061b/train/javascript)|7|JS|[path](./katas/productOfLargestPair/)|[solution](./katas/productOfLargestPair/kata.js)|
 |[Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)|7|JS|[path](./katas/arrayPlusArray/)|[solution](./katas/arrayPlusArray/kata.js)|
