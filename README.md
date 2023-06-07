@@ -8,6 +8,8 @@ Code Wars is an online coding platform that helps users learn programming by sol
 
 tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kata-solution codewars-javascript
 
+***[All](README.md)*** | [3 kui](3kui.md) | [4 kui](4kui.md) | [5 kui](5kui.md) | [6 kui](6kui.md) | [7 kui](7kui.md) | [8 kui](8kui.md) | [Beta](beta.md)
+
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
 |[Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript)|6|JS|[path](./katas/multiplesOf3Or5/)|[solution](./katas/multiplesOf3Or5/kata.js)|
