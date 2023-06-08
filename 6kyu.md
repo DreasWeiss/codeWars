@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 6 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Replace letters](https://www.codewars.com/kata/5a4331b18f27f2b31f000085/train/javascript)|6|JS|[path](./katas/replaceLetters/)|[solution](./katas/replaceLetters/kata.js)|
 |[Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript)|6|JS|[path](./katas/multiplesOf3Or5/)|[solution](./katas/multiplesOf3Or5/kata.js)|
 |[Anagram difference](https://www.codewars.com/kata/5b1b27c8f60e99a467000041/train/javascript)|6|JS|[path](./katas/anagramDifference/)|[solution](./katas/anagramDifference/kata.js)|
 |[Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005/train/javascript)|6|JS|[path](./katas/romanNumeralsDecoder/)|[solution](./katas/romanNumeralsDecoder/kata.js)|
