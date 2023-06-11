@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Contamination #1 -String-](https://www.codewars.com/kata/596fba44963025c878000039/train/javascript)|8|JS|[path](./katas/contamination1-string-/)|[solution](./katas/contamination1-string-/kata.js)|
 |[Short Long Short](https://www.codewars.com/kata/50654ddff44f800200000007/train/javascript)|8|JS|[path](./katas/shortLongShort/)|[solution](./katas/shortLongShort/kata.js)|
 |[Replace letters](https://www.codewars.com/kata/5a4331b18f27f2b31f000085/train/javascript)|6|JS|[path](./katas/replaceLetters/)|[solution](./katas/replaceLetters/kata.js)|
 |[Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript)|7|JS|[path](./katas/isograms/)|[solution](./katas/isograms/kata.js)|
