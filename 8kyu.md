@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Contamination #1 -String-](https://www.codewars.com/kata/596fba44963025c878000039/train/javascript)|8|JS|[path](./katas/contamination1-string-/)|[solution](./katas/contamination1-string-/kata.js)|
 |[Short Long Short](https://www.codewars.com/kata/50654ddff44f800200000007/train/javascript)|8|JS|[path](./katas/shortLongShort/)|[solution](./katas/shortLongShort/kata.js)|
 |[Did she say hallo?](https://www.codewars.com/kata/56a4addbfd4a55694100001f/train/javascript)|8|JS|[path](./katas/didSheSayHallo/)|[solution](./katas/didSheSayHallo/kata.js)|
 |[Pillars](https://www.codewars.com/kata/5bb0c58f484fcd170700063d/train/javascript)|8|JS|[path](./katas/pillars/)|[solution](./katas/pillars/kata.js)|
