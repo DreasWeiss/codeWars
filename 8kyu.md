@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[What's the real floor?](https://www.codewars.com/kata/574b3b1599d8f897470018f6/train/javascript)|8|JS|[path](./katas/whatsTheRealFloor/)|[solution](./katas/whatsTheRealFloor/kata.js)|
 |[Contamination #1 -String-](https://www.codewars.com/kata/596fba44963025c878000039/train/javascript)|8|JS|[path](./katas/contamination1-string-/)|[solution](./katas/contamination1-string-/kata.js)|
 |[Short Long Short](https://www.codewars.com/kata/50654ddff44f800200000007/train/javascript)|8|JS|[path](./katas/shortLongShort/)|[solution](./katas/shortLongShort/kata.js)|
 |[Did she say hallo?](https://www.codewars.com/kata/56a4addbfd4a55694100001f/train/javascript)|8|JS|[path](./katas/didSheSayHallo/)|[solution](./katas/didSheSayHallo/kata.js)|
