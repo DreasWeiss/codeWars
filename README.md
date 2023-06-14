@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Grasshopper - If/else syntax debug](https://www.codewars.com/kata/57089707fe2d01529f00024a/train/javascript)|8|JS|[path](./katas/grasshopperIfelseSyntaxDebug/)|[solution](./katas/grasshopperIfelseSyntaxDebug/kata.js)|
 |[What's the real floor?](https://www.codewars.com/kata/574b3b1599d8f897470018f6/train/javascript)|8|JS|[path](./katas/whatsTheRealFloor/)|[solution](./katas/whatsTheRealFloor/kata.js)|
 |[Basic JS - Building a calculator](https://www.codewars.com/kata/529f2d1c403a58f660000656/train/javascript)|7|JS|[path](./katas/basicJsBuildingACalculator/)|[solution](./katas/basicJsBuildingACalculator/kata.js)|
 |[Contamination #1 -String-](https://www.codewars.com/kata/596fba44963025c878000039/train/javascript)|8|JS|[path](./katas/contamination1-string-/)|[solution](./katas/contamination1-string-/kata.js)|
