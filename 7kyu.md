@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Find array](https://www.codewars.com/kata/59a2a3ba5eb5d4e609000055/train/javascript)|7|JS|[path](./katas/findArray/)|[solution](./katas/findArray/kata.js)|
 |[Basic JS - Building a calculator](https://www.codewars.com/kata/529f2d1c403a58f660000656/train/javascript)|7|JS|[path](./katas/basicJsBuildingACalculator/)|[solution](./katas/basicJsBuildingACalculator/kata.js)|
 |[Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript)|7|JS|[path](./katas/isograms/)|[solution](./katas/isograms/kata.js)|
 |[Product of Largest Pair](https://www.codewars.com/kata/5784c89be5553370e000061b/train/javascript)|7|JS|[path](./katas/productOfLargestPair/)|[solution](./katas/productOfLargestPair/kata.js)|
