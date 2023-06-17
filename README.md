@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Round up to the next multiple of 5](https://www.codewars.com/kata/55d1d6d5955ec6365400006d/train/javascript)|7|JS|[path](./katas/roundUpToTheNextMultipleOf5/)|[solution](./katas/roundUpToTheNextMultipleOf5/kata.js)|
 |[Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4/train/javascript)|6|JS|[path](./katas/bitCounting/)|[solution](./katas/bitCounting/kata.js)|
 |[Find array](https://www.codewars.com/kata/59a2a3ba5eb5d4e609000055/train/javascript)|7|JS|[path](./katas/findArray/)|[solution](./katas/findArray/kata.js)|
 |[Grasshopper - If/else syntax debug](https://www.codewars.com/kata/57089707fe2d01529f00024a/train/javascript)|8|JS|[path](./katas/grasshopperIfelseSyntaxDebug/)|[solution](./katas/grasshopperIfelseSyntaxDebug/kata.js)|
