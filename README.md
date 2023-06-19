@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Object extend](https://www.codewars.com/kata/51f9d3a6e5a42591ae0001eb/train/javascript)|5|JS|[path](./katas/objectExtend/)|[solution](./katas/objectExtend/kata.js)|
 |[Exclusive "or" (xor) Logical Operator](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c/train/javascript)|8|JS|[path](./katas/exclusiveOrXorLogicalOperator/)|[solution](./katas/exclusiveOrXorLogicalOperator/kata.js)|
 |[Stringy Strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054/train/javascript)|8|JS|[path](./katas/stringyStrings/)|[solution](./katas/stringyStrings/kata.js)|
 |[Round up to the next multiple of 5](https://www.codewars.com/kata/55d1d6d5955ec6365400006d/train/javascript)|7|JS|[path](./katas/roundUpToTheNextMultipleOf5/)|[solution](./katas/roundUpToTheNextMultipleOf5/kata.js)|
