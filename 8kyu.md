@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Exclusive "or" (xor) Logical Operator](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c/train/javascript)|8|JS|[path](./katas/exclusiveOrXorLogicalOperator/)|[solution](./katas/exclusiveOrXorLogicalOperator/kata.js)|
 |[Stringy Strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054/train/javascript)|8|JS|[path](./katas/stringyStrings/)|[solution](./katas/stringyStrings/kata.js)|
 |[Grasshopper - If/else syntax debug](https://www.codewars.com/kata/57089707fe2d01529f00024a/train/javascript)|8|JS|[path](./katas/grasshopperIfelseSyntaxDebug/)|[solution](./katas/grasshopperIfelseSyntaxDebug/kata.js)|
 |[What's the real floor?](https://www.codewars.com/kata/574b3b1599d8f897470018f6/train/javascript)|8|JS|[path](./katas/whatsTheRealFloor/)|[solution](./katas/whatsTheRealFloor/kata.js)|
