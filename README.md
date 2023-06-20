@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Expressions Matter](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/javascript)|8|JS|[path](./katas/expressionsMatter/)|[solution](./katas/expressionsMatter/kata.js)|
 |[Sum without highest and lowest number](https://www.codewars.com/kata/576b93db1129fcf2200001e6/train/javascript)|8|JS|[path](./katas/sumWithoutHighestAndLowestNumber/)|[solution](./katas/sumWithoutHighestAndLowestNumber/kata.js)|
 |[Object extend](https://www.codewars.com/kata/51f9d3a6e5a42591ae0001eb/train/javascript)|5|JS|[path](./katas/objectExtend/)|[solution](./katas/objectExtend/kata.js)|
 |[Exclusive "or" (xor) Logical Operator](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c/train/javascript)|8|JS|[path](./katas/exclusiveOrXorLogicalOperator/)|[solution](./katas/exclusiveOrXorLogicalOperator/kata.js)|
