@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7/train/javascript)|7|JS|[path](./katas/oddOrEven/)|[solution](./katas/oddOrEven/kata.js)|
 |[Round up to the next multiple of 5](https://www.codewars.com/kata/55d1d6d5955ec6365400006d/train/javascript)|7|JS|[path](./katas/roundUpToTheNextMultipleOf5/)|[solution](./katas/roundUpToTheNextMultipleOf5/kata.js)|
 |[Find array](https://www.codewars.com/kata/59a2a3ba5eb5d4e609000055/train/javascript)|7|JS|[path](./katas/findArray/)|[solution](./katas/findArray/kata.js)|
 |[Basic JS - Building a calculator](https://www.codewars.com/kata/529f2d1c403a58f660000656/train/javascript)|7|JS|[path](./katas/basicJsBuildingACalculator/)|[solution](./katas/basicJsBuildingACalculator/kata.js)|
