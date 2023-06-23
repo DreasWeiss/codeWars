@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Number Format](https://www.codewars.com/kata/565c4e1303a0a006d7000127/train/javascript)|6|JS|[path](./katas/numberFormat/)|[solution](./katas/numberFormat/kata.js)|
 |[Drink about](https://www.codewars.com/kata/56170e844da7c6f647000063/train/javascript)|8|JS|[path](./katas/drinkAbout/)|[solution](./katas/drinkAbout/kata.js)|
 |[Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7/train/javascript)|7|JS|[path](./katas/oddOrEven/)|[solution](./katas/oddOrEven/kata.js)|
 |[Expressions Matter](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/javascript)|8|JS|[path](./katas/expressionsMatter/)|[solution](./katas/expressionsMatter/kata.js)|
