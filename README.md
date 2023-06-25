@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Linked Lists - Remove Duplicates](https://www.codewars.com/kata/559d2284b5bb6799e9000047/train/javascript)|6|JS|[path](./katas/linkedListsRemoveDuplicates/)|[solution](./katas/linkedListsRemoveDuplicates/kata.js)|
 |[Add Length](https://www.codewars.com/kata/559d2284b5bb6799e9000047/train/javascript)|8|JS|[path](./katas/addLength/)|[solution](./katas/addLength/kata.js)|
 |[Regular Ball Super Ball](https://www.codewars.com/kata/53f0f358b9cb376eca001079/train/javascript)|8|JS|[path](./katas/regularBallSuperBall/)|[solution](./katas/regularBallSuperBall/kata.js)|
 |[Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/javascript)|8|JS|[path](./katas/convertAStringToAnArray/)|[solution](./katas/convertAStringToAnArray/kata.js)|
