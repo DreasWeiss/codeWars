@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Leap Years](https://www.codewars.com/kata/526c7363236867513f0005ca/train/javascript)|7|JS|[path](./katas/leapYears/)|[solution](./katas/leapYears/kata.js)|
 |[What dominates your array?](https://www.codewars.com/kata/559e10e2e162b69f750000b4/train/javascript)|7|JS|[path](./katas/whatDominatesYourArray/)|[solution](./katas/whatDominatesYourArray/kata.js)|
 |[Sum of Multiples](https://www.codewars.com/kata/57241e0f440cd279b5000829/train/javascript)|8|JS|[path](./katas/sumOfMultiples/)|[solution](./katas/sumOfMultiples/kata.js)|
 |[Linked Lists - Remove Duplicates](https://www.codewars.com/kata/559d2284b5bb6799e9000047/train/javascript)|6|JS|[path](./katas/linkedListsRemoveDuplicates/)|[solution](./katas/linkedListsRemoveDuplicates/kata.js)|
