@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Count consonants](https://www.codewars.com/kata/564e7fc20f0b53eb02000106/train/javascript)|7|JS|[path](./katas/countConsonants/)|[solution](./katas/countConsonants/kata.js)|
 |[Leap Years](https://www.codewars.com/kata/526c7363236867513f0005ca/train/javascript)|7|JS|[path](./katas/leapYears/)|[solution](./katas/leapYears/kata.js)|
 |[What dominates your array?](https://www.codewars.com/kata/559e10e2e162b69f750000b4/train/javascript)|7|JS|[path](./katas/whatDominatesYourArray/)|[solution](./katas/whatDominatesYourArray/kata.js)|
 |[Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7/train/javascript)|7|JS|[path](./katas/oddOrEven/)|[solution](./katas/oddOrEven/kata.js)|
