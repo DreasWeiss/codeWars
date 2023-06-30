@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Color to Grayscale](https://www.codewars.com/kata/649c4012aaad69003f1299c1/train/javascript)|7|JS|[path](./katas/colorToGrayscale/)|[solution](./katas/colorToGrayscale/kata.js)|
 |[Count consonants](https://www.codewars.com/kata/564e7fc20f0b53eb02000106/train/javascript)|7|JS|[path](./katas/countConsonants/)|[solution](./katas/countConsonants/kata.js)|
 |[What dominates your array?](https://www.codewars.com/kata/559e10e2e162b69f750000b4/train/javascript)|7|JS|[path](./katas/whatDominatesYourArray/)|[solution](./katas/whatDominatesYourArray/kata.js)|
 |[Sum of Multiples](https://www.codewars.com/kata/57241e0f440cd279b5000829/train/javascript)|8|JS|[path](./katas/sumOfMultiples/)|[solution](./katas/sumOfMultiples/kata.js)|
