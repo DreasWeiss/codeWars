@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Summing a number's digits](https://www.codewars.com/kata/52f3149496de55aded000410/train/javascript)|7|JS|[path](./katas/summingANumbersDigits/)|[solution](./katas/summingANumbersDigits/kata.js)|
 |[No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/javascript)|8|JS|[path](./katas/noZerosForHeros/)|[solution](./katas/noZerosForHeros/kata.js)|
 |[Color to Grayscale](https://www.codewars.com/kata/649c4012aaad69003f1299c1/train/javascript)|7|JS|[path](./katas/colorToGrayscale/)|[solution](./katas/colorToGrayscale/kata.js)|
 |[Count consonants](https://www.codewars.com/kata/564e7fc20f0b53eb02000106/train/javascript)|7|JS|[path](./katas/countConsonants/)|[solution](./katas/countConsonants/kata.js)|
