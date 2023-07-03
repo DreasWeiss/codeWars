@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f/train/javascript)|8|JS|[path](./katas/findMultiplesOfANumber/)|[solution](./katas/findMultiplesOfANumber/kata.js)|
 |[No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/javascript)|8|JS|[path](./katas/noZerosForHeros/)|[solution](./katas/noZerosForHeros/kata.js)|
 |[Sum of Multiples](https://www.codewars.com/kata/57241e0f440cd279b5000829/train/javascript)|8|JS|[path](./katas/sumOfMultiples/)|[solution](./katas/sumOfMultiples/kata.js)|
 |[Add Length](https://www.codewars.com/kata/559d2284b5bb6799e9000047/train/javascript)|8|JS|[path](./katas/addLength/)|[solution](./katas/addLength/kata.js)|
