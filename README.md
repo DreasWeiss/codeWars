@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Day of the Year](https://www.codewars.com/kata/5a1ebe0d46d843454100004c/train/javascript)|7|JS|[path](./katas/dayOfTheYear/)|[solution](./katas/dayOfTheYear/kata.js)|
 |[Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f/train/javascript)|8|JS|[path](./katas/findMultiplesOfANumber/)|[solution](./katas/findMultiplesOfANumber/kata.js)|
 |[No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/javascript)|8|JS|[path](./katas/noZerosForHeros/)|[solution](./katas/noZerosForHeros/kata.js)|
 |[Color to Grayscale](https://www.codewars.com/kata/649c4012aaad69003f1299c1/train/javascript)|7|JS|[path](./katas/colorToGrayscale/)|[solution](./katas/colorToGrayscale/kata.js)|
