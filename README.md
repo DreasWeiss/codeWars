@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003/train/javascript)|8|JS|[path](./katas/willThereBeEnoughSpace/)|[solution](./katas/willThereBeEnoughSpace/kata.js)|
 [All Star Code Challenge #18](https://www.codewars.com/kata/5865918c6b569962950002a1/train/javascript)|8|JS|[path](./katas/allStarCodeChallenge18/)|[solution](./katas/allStarCodeChallenge18/kata.js)|
 |[Day of the Year](https://www.codewars.com/kata/5a1ebe0d46d843454100004c/train/javascript)|8|JS|[path](./katas/dayOfTheYear/)|[solution](./katas/dayOfTheYear/kata.js)|
 |[Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f/train/javascript)|8|JS|[path](./katas/findMultiplesOfANumber/)|[solution](./katas/findMultiplesOfANumber/kata.js)|
