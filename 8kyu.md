@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Lario and Muigi Pipe Problem](https://www.codewars.com/kata/56b29582461215098d00000f/train/javascript)|8|JS|[path](./katas/larioAndMuigiPipeProblem/)|[solution](./katas/larioAndMuigiPipeProblem/kata.js)|
 [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003/train/javascript)|8|JS|[path](./katas/willThereBeEnoughSpace/)|[solution](./katas/willThereBeEnoughSpace/kata.js)|
 [All Star Code Challenge #18](https://www.codewars.com/kata/5865918c6b569962950002a1/train/javascript)|8|JS|[path](./katas/allStarCodeChallenge18/)|[solution](./katas/allStarCodeChallenge18/kata.js)|
 |[Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f/train/javascript)|8|JS|[path](./katas/findMultiplesOfANumber/)|[solution](./katas/findMultiplesOfANumber/kata.js)|
