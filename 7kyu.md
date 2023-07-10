@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Power of 4](https://www.codewars.com/kata/544d114f84e41094a9000439/train/javascript)|7|JS|[path](./katas/powerOf4/)|[solution](./katas/powerOf4/kata.js)|
 |[Day of the Year](https://www.codewars.com/kata/5a1ebe0d46d843454100004c/train/javascript)|7|JS|[path](./katas/dayOfTheYear/)|[solution](./katas/dayOfTheYear/kata.js)|
 |[Summing a number's digits](https://www.codewars.com/kata/52f3149496de55aded000410/train/javascript)|7|JS|[path](./katas/summingANumbersDigits/)|[solution](./katas/summingANumbersDigits/kata.js)|
 |[Color to Grayscale](https://www.codewars.com/kata/649c4012aaad69003f1299c1/train/javascript)|7|JS|[path](./katas/colorToGrayscale/)|[solution](./katas/colorToGrayscale/kata.js)|
