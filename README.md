@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Help Suzuki count his vegetables....](https://www.codewars.com/kata/56ff1667cc08cacf4b00171b/train/javascript)|7|JS|[path](./katas/helpSuzukiCountHisVegetables/)|[solution](./katas/helpSuzukiCountHisVegetables/kata.js)|
 [Power of 4](https://www.codewars.com/kata/544d114f84e41094a9000439/train/javascript)|7|JS|[path](./katas/powerOf4/)|[solution](./katas/powerOf4/kata.js)|
 [Area or Perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/javascript)|8|JS|[path](./katas/areaOrPerimeter/)|[solution](./katas/areaOrPerimeter/kata.js)|
 [Lario and Muigi Pipe Problem](https://www.codewars.com/kata/56b29582461215098d00000f/train/javascript)|8|JS|[path](./katas/larioAndMuigiPipeProblem/)|[solution](./katas/larioAndMuigiPipeProblem/kata.js)|
