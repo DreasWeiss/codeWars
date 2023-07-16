@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 6 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[What's A Name In?](https://www.codewars.com/kata/59daf400beec9780a9000045/train/javascript)|6|JS|[path](./katas/whatsANameIn/)|[solution](./katas/whatsANameIn/kata.js)|
 |[Linked Lists - Remove Duplicates](https://www.codewars.com/kata/559d2284b5bb6799e9000047/train/javascript)|6|JS|[path](./katas/linkedListsRemoveDuplicates/)|[solution](./katas/linkedListsRemoveDuplicates/kata.js)|
 |[Number Format](https://www.codewars.com/kata/565c4e1303a0a006d7000127/train/javascript)|6|JS|[path](./katas/numberFormat/)|[solution](./katas/numberFormat/kata.js)|
 |[Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4/train/javascript)|6|JS|[path](./katas/bitCounting/)|[solution](./katas/bitCounting/kata.js)|
