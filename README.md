@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/javascript)|6|JS|[path](./katas/validBraces/)|[solution](./katas/validBraces/kata.js)|
 [What's A Name In?](https://www.codewars.com/kata/59daf400beec9780a9000045/train/javascript)|6|JS|[path](./katas/whatsANameIn/)|[solution](./katas/whatsANameIn/kata.js)|
 [Help Suzuki count his vegetables....](https://www.codewars.com/kata/56ff1667cc08cacf4b00171b/train/javascript)|7|JS|[path](./katas/helpSuzukiCountHisVegetables/)|[solution](./katas/helpSuzukiCountHisVegetables/kata.js)|
 [Power of 4](https://www.codewars.com/kata/544d114f84e41094a9000439/train/javascript)|7|JS|[path](./katas/powerOf4/)|[solution](./katas/powerOf4/kata.js)|
