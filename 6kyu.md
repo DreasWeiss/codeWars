@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 6 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Even Fibonacci Sum](https://www.codewars.com/kata/55688b4e725f41d1e9000065/train/javascript)|6|JS|[path](./katas/evenFibonacciSum/)|[solution](./katas/evenFibonacciSum/kata.js)|
 [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/javascript)|6|JS|[path](./katas/validBraces/)|[solution](./katas/validBraces/kata.js)|
 [What's A Name In?](https://www.codewars.com/kata/59daf400beec9780a9000045/train/javascript)|6|JS|[path](./katas/whatsANameIn/)|[solution](./katas/whatsANameIn/kata.js)|
 |[Linked Lists - Remove Duplicates](https://www.codewars.com/kata/559d2284b5bb6799e9000047/train/javascript)|6|JS|[path](./katas/linkedListsRemoveDuplicates/)|[solution](./katas/linkedListsRemoveDuplicates/kata.js)|
