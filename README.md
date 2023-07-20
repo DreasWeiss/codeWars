@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Arabian String](https://www.codewars.com/kata/525821ce8e7b0d240b002615/train/javascript)|6|JS|[path](./katas/arabianString/)|[solution](./katas/arabianString/kata.js)|
 [Even Fibonacci Sum](https://www.codewars.com/kata/55688b4e725f41d1e9000065/train/javascript)|6|JS|[path](./katas/evenFibonacciSum/)|[solution](./katas/evenFibonacciSum/kata.js)|
 [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/javascript)|6|JS|[path](./katas/validBraces/)|[solution](./katas/validBraces/kata.js)|
 [What's A Name In?](https://www.codewars.com/kata/59daf400beec9780a9000045/train/javascript)|6|JS|[path](./katas/whatsANameIn/)|[solution](./katas/whatsANameIn/kata.js)|
