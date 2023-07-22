@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Suzuki needs help lining up his students!](https://www.codewars.com/kata/5701800886306a876a001031/train/javascript)|7|JS|[path](./katas/suzukiNeedsHelpLiningUpHisStudents/)|[solution](./katas/suzukiNeedsHelpLiningUpHisStudents/kata.js)|
 [Find the capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b/train/javascript)|7|JS|[path](./katas/findTheCapitals/)|[solution](./katas/findTheCapitals/kata.js)|
 [Arabian String](https://www.codewars.com/kata/525821ce8e7b0d240b002615/train/javascript)|6|JS|[path](./katas/arabianString/)|[solution](./katas/arabianString/kata.js)|
 [Even Fibonacci Sum](https://www.codewars.com/kata/55688b4e725f41d1e9000065/train/javascript)|6|JS|[path](./katas/evenFibonacciSum/)|[solution](./katas/evenFibonacciSum/kata.js)|

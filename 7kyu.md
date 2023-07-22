@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Suzuki needs help lining up his students!](https://www.codewars.com/kata/5701800886306a876a001031/train/javascript)|7|JS|[path](./katas/suzukiNeedsHelpLiningUpHisStudents/)|[solution](./katas/suzukiNeedsHelpLiningUpHisStudents/kata.js)|
 [Find the capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b/train/javascript)|7|JS|[path](./katas/findTheCapitals/)|[solution](./katas/findTheCapitals/kata.js)|
 [Help Suzuki count his vegetables....](https://www.codewars.com/kata/56ff1667cc08cacf4b00171b/train/javascript)|7|JS|[path](./katas/helpSuzukiCountHisVegetables/)|[solution](./katas/helpSuzukiCountHisVegetables/kata.js)|
 [Power of 4](https://www.codewars.com/kata/544d114f84e41094a9000439/train/javascript)|7|JS|[path](./katas/powerOf4/)|[solution](./katas/powerOf4/kata.js)|
