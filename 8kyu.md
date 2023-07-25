@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Draw stairs](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5/train/javascript)|8|JS|[path](./katas/drawStairs/)|[solution](./katas/drawStairs/kata.js)|
 [Area or Perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/javascript)|8|JS|[path](./katas/areaOrPerimeter/)|[solution](./katas/areaOrPerimeter/kata.js)|
 [Lario and Muigi Pipe Problem](https://www.codewars.com/kata/56b29582461215098d00000f/train/javascript)|8|JS|[path](./katas/larioAndMuigiPipeProblem/)|[solution](./katas/larioAndMuigiPipeProblem/kata.js)|
 [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003/train/javascript)|8|JS|[path](./katas/willThereBeEnoughSpace/)|[solution](./katas/willThereBeEnoughSpace/kata.js)|

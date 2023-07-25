@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Draw stairs](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5/train/javascript)|8|JS|[path](./katas/drawStairs/)|[solution](./katas/drawStairs/kata.js)|
 [Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001/train/javascript)|7|JS|[path](./katas/twoOldestAges/)|[solution](./katas/twoOldestAges/kata.js)|
 [Two numbers are positive](https://www.codewars.com/kata/602db3215c22df000e8544f0/train/javascript)|7|JS|[path](./katas/twoNumbersArePositive/)|[solution](./katas/twoNumbersArePositive/kata.js)|
 [Suzuki needs help lining up his students!](https://www.codewars.com/kata/5701800886306a876a001031/train/javascript)|7|JS|[path](./katas/suzukiNeedsHelpLiningUpHisStudents/)|[solution](./katas/suzukiNeedsHelpLiningUpHisStudents/kata.js)|
