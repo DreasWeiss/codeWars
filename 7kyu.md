@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Battle of the characters (Easy)](https://www.codewars.com/kata/595519279be6c575b5000016/train/javascript)|7|JS|[path](./katas/battleOfTheCharactersEasy/)|[solution](./katas/battleOfTheCharactersEasy/kata.js)|
 [Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001/train/javascript)|7|JS|[path](./katas/twoOldestAges/)|[solution](./katas/twoOldestAges/kata.js)|
 [Two numbers are positive](https://www.codewars.com/kata/602db3215c22df000e8544f0/train/javascript)|7|JS|[path](./katas/twoNumbersArePositive/)|[solution](./katas/twoNumbersArePositive/kata.js)|
 [Suzuki needs help lining up his students!](https://www.codewars.com/kata/5701800886306a876a001031/train/javascript)|7|JS|[path](./katas/suzukiNeedsHelpLiningUpHisStudents/)|[solution](./katas/suzukiNeedsHelpLiningUpHisStudents/kata.js)|
