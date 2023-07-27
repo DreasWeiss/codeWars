@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Keep the Order](https://www.codewars.com/kata/582aafca2d44a4a4560000e7/train/javascript)|7|JS|[path](./katas/keepTheOrder/)|[solution](./katas/keepTheOrder/kata.js)|
 [Battle of the characters (Easy)](https://www.codewars.com/kata/595519279be6c575b5000016/train/javascript)|7|JS|[path](./katas/battleOfTheCharactersEasy/)|[solution](./katas/battleOfTheCharactersEasy/kata.js)|
 [Draw stairs](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5/train/javascript)|8|JS|[path](./katas/drawStairs/)|[solution](./katas/drawStairs/kata.js)|
 [Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001/train/javascript)|7|JS|[path](./katas/twoOldestAges/)|[solution](./katas/twoOldestAges/kata.js)|
