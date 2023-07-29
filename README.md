@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Find min and max](https://www.codewars.com/kata/57a1ae8c7cb1f31e4e000130/train/javascript)|7|JS|[path](./katas/findMinAndMax/)|[solution](./katas/findMinAndMax/kata.js)|
 [Dbftbs Djqifs](https://www.codewars.com/kata/546937989c0b6ab3c5000183/train/javascript)|6|JS|[path](./katas/dbftbsDjqifs/)|[solution](./katas/dbftbsDjqifs/kata.js)|
 [Battle of the characters (Easy)](https://www.codewars.com/kata/595519279be6c575b5000016/train/javascript)|7|JS|[path](./katas/battleOfTheCharactersEasy/)|[solution](./katas/battleOfTheCharactersEasy/kata.js)|
 [Draw stairs](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5/train/javascript)|8|JS|[path](./katas/drawStairs/)|[solution](./katas/drawStairs/kata.js)|
