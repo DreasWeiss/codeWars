@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[makeBackronym](https://www.codewars.com/kata/55805ab490c73741b7000064/train/javascript)|7|JS|[path](./katas/makeBackronym/)|[solution](./katas/makeBackronym/kata.js)|
 [Miles per gallon to kilometers per liter](https://www.codewars.com/kata/557b5e0bddf29d861400005d/train/javascript)|8|JS|[path](./katas/milesPerGallonToKilometersPerLiter/)|[solution](./katas/milesPerGallonToKilometersPerLiter/kata.js)|
 [Find min and max](https://www.codewars.com/kata/57a1ae8c7cb1f31e4e000130/train/javascript)|7|JS|[path](./katas/findMinAndMax/)|[solution](./katas/findMinAndMax/kata.js)|
 [Dbftbs Djqifs](https://www.codewars.com/kata/546937989c0b6ab3c5000183/train/javascript)|6|JS|[path](./katas/dbftbsDjqifs/)|[solution](./katas/dbftbsDjqifs/kata.js)|

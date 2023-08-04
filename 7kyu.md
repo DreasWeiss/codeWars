@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[makeBackronym](https://www.codewars.com/kata/55805ab490c73741b7000064/train/javascript)|7|JS|[path](./katas/makeBackronym/)|[solution](./katas/makeBackronym/kata.js)|
 [Find min and max](https://www.codewars.com/kata/57a1ae8c7cb1f31e4e000130/train/javascript)|7|JS|[path](./katas/findMinAndMax/)|[solution](./katas/findMinAndMax/kata.js)|
 [Keep the Order](https://www.codewars.com/kata/582aafca2d44a4a4560000e7/train/javascript)|7|JS|[path](./katas/keepTheOrder/)|[solution](./katas/keepTheOrder/kata.js)|
 [Battle of the characters (Easy)](https://www.codewars.com/kata/595519279be6c575b5000016/train/javascript)|7|JS|[path](./katas/battleOfTheCharactersEasy/)|[solution](./katas/battleOfTheCharactersEasy/kata.js)|
