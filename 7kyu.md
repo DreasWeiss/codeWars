@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Three sticks](https://www.codewars.com/kata/57c1f22d8fbb9fd88700009b/train/javascript)|7|JS|[path](./katas/threeSticks/)|[solution](./katas/threeSticks/kata.js)|
 [The wheat/rice and chessboard problem](https://www.codewars.com/kata/5b0d67c1cb35dfa10b0022c7/train/javascript)|7|JS|[path](./katas/theWheatRiceAndChessboardProblem/)|[solution](./katas/theWheatRiceAndChessboardProblem/kata.js)|
 [Calculate Parity bit!](https://www.codewars.com/kata/5df261342964c80028345a0a/train/javascript)|7|JS|[path](./katas/calculateParityBit/)|[solution](./katas/calculateParityBit/kata.js)|
 [Log without dates](https://www.codewars.com/kata/64cac86333ab6a14f70c6fb6/train/javascript)|7|JS|[path](./katas/logWithoutDates/)|[solution](./katas/logWithoutDates/kata.js)|
