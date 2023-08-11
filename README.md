@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Welcome to the City](https://www.codewars.com/kata/5302d846be2a9189af0001e4/train/javascript)|8|JS|[path](./katas/WelcomeToTheCity/)|[solution](./katas/WelcomeToTheCity/kata.js)|
 [Filter the number](https://www.codewars.com/kata/55b051fac50a3292a9000025/train/javascript)|7|JS|[path](./katas/filterTheNumber/)|[solution](./katas/filterTheNumber/kata.js)|
 [Who Took The Car Key?](https://www.codewars.com/kata/57a23c2acf1fa514d0001034/train/javascript)|7|JS|[path](./katas/whoTookTheCarKey/)|[solution](./katas/whoTookTheCarKey/kata.js)|
 [Three sticks](https://www.codewars.com/kata/57c1f22d8fbb9fd88700009b/train/javascript)|7|JS|[path](./katas/threeSticks/)|[solution](./katas/threeSticks/kata.js)|
