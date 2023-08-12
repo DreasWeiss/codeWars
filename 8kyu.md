@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Remove duplicates from list](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118/train/javascript)|8|JS|[path](./katas/removeDuplicatesFromList/)|[solution](./katas/removeDuplicatesFromList/kata.js)|
 [Welcome to the City](https://www.codewars.com/kata/5302d846be2a9189af0001e4/train/javascript)|8|JS|[path](./katas/WelcomeToTheCity/)|[solution](./katas/WelcomeToTheCity/kata.js)|
 [Miles per gallon to kilometers per liter](https://www.codewars.com/kata/557b5e0bddf29d861400005d/train/javascript)|8|JS|[path](./katas/milesPerGallonToKilometersPerLiter/)|[solution](./katas/milesPerGallonToKilometersPerLiter/kata.js)|
 [Draw stairs](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5/train/javascript)|8|JS|[path](./katas/drawStairs/)|[solution](./katas/drawStairs/kata.js)|
