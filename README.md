@@ -12,7 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
-[After(?) Midnight](https://www.codewars.com/kata/56fac4cfda8ca6ec0f001746/train/javascript)|7|JS|[path](./katas/afterMidnight/)|[solution](./katas/afterMidnight/kata.js)|
+[Selective fear of numbers](https://www.codewars.com/kata/56fac4cfda8ca6ec0f001746/train/javascript)|7|JS|[path](./katas/selectiveFearOfNumbers/)|[solution](./katas/selectiveFearOfNumbers/kata.js)|
 [Remove duplicates from list](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118/train/javascript)|8|JS|[path](./katas/removeDuplicatesFromList/)|[solution](./katas/removeDuplicatesFromList/kata.js)|
 [Welcome to the City](https://www.codewars.com/kata/5302d846be2a9189af0001e4/train/javascript)|8|JS|[path](./katas/WelcomeToTheCity/)|[solution](./katas/WelcomeToTheCity/kata.js)|
 [Filter the number](https://www.codewars.com/kata/55b051fac50a3292a9000025/train/javascript)|7|JS|[path](./katas/filterTheNumber/)|[solution](./katas/filterTheNumber/kata.js)|

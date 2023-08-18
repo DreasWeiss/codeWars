@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Selective fear of numbers](https://www.codewars.com/kata/56fac4cfda8ca6ec0f001746/train/javascript)|7|JS|[path](./katas/selectiveFearOfNumbers/)|[solution](./katas/selectiveFearOfNumbers/kata.js)|
 [After(?) Midnight](https://www.codewars.com/kata/56fac4cfda8ca6ec0f001746/train/javascript)|7|JS|[path](./katas/afterMidnight/)|[solution](./katas/afterMidnight/kata.js)|
 [Filter the number](https://www.codewars.com/kata/55b051fac50a3292a9000025/train/javascript)|7|JS|[path](./katas/filterTheNumber/)|[solution](./katas/filterTheNumber/kata.js)|
 [Who Took The Car Key?](https://www.codewars.com/kata/57a23c2acf1fa514d0001034/train/javascript)|7|JS|[path](./katas/whoTookTheCarKey/)|[solution](./katas/whoTookTheCarKey/kata.js)|
