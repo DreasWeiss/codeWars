@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 6 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Block Letter Printer](https://www.codewars.com/kata/6375587af84854823ccd0e90/train/javascript)|6|JS|[path](./katas/blockLetterPrinter/)|[solution](./katas/blockLetterPrinter/kata.js)|
 [Dbftbs Djqifs](https://www.codewars.com/kata/546937989c0b6ab3c5000183/train/javascript)|6|JS|[path](./katas/dbftbsDjqifs/)|[solution](./katas/dbftbsDjqifs/kata.js)|
 [Arabian String](https://www.codewars.com/kata/525821ce8e7b0d240b002615/train/javascript)|6|JS|[path](./katas/arabianString/)|[solution](./katas/arabianString/kata.js)|
 [Even Fibonacci Sum](https://www.codewars.com/kata/55688b4e725f41d1e9000065/train/javascript)|6|JS|[path](./katas/evenFibonacciSum/)|[solution](./katas/evenFibonacciSum/kata.js)|
