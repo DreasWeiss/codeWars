@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[NATO Phonetic Alphabet](https://www.codewars.com/kata/54530f75699b53e558002076/train/javascript)|7|JS|[path](./katas/natoPhoneticAlphabet/)|[solution](./katas/natoPhoneticAlphabet/kata.js)|
 [Block Letter Printer](https://www.codewars.com/kata/6375587af84854823ccd0e90/train/javascript)|6|JS|[path](./katas/blockLetterPrinter/)|[solution](./katas/blockLetterPrinter/kata.js)|
 [Eliminate the intruders! Bit manipulation](https://www.codewars.com/kata/5a0d38c9697598b67a000041/train/javascript)|7|JS|[path](./katas/eliminateTheIntrudersBitManipulation/)|[solution](./katas/eliminateTheIntrudersBitManipulation/kata.js)|
 [Selective fear of numbers](https://www.codewars.com/kata/56fac4cfda8ca6ec0f001746/train/javascript)|7|JS|[path](./katas/selectiveFearOfNumbers/)|[solution](./katas/selectiveFearOfNumbers/kata.js)|
