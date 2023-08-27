@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript)|7|JS|[path](./katas/vowelCount/)|[solution](./katas/vowelCount/kata.js)|
 [Converting 12-hour time to 24-hour time](https://www.codewars.com/kata/59b0a6da44a4b7080300008a/train/javascript)|7|JS|[path](./katas/converting12HourTimeTo24HourTime/)|[solution](./katas/converting12HourTimeTo24HourTime/kata.js)|
 [Breaking chocolate problem](https://www.codewars.com/kata/534ea96ebb17181947000ada/train/javascript)|7|JS|[path](./katas/breakingChocolateProblem/)|[solution](./katas/breakingChocolateProblem/kata.js)|
 [NATO Phonetic Alphabet](https://www.codewars.com/kata/54530f75699b53e558002076/train/javascript)|7|JS|[path](./katas/natoPhoneticAlphabet/)|[solution](./katas/natoPhoneticAlphabet/kata.js)|
