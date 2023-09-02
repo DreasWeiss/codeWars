@@ -14,4 +14,3 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
 |[Make a spiral](https://www.codewars.com/kata/5a86073fb17101e453000258/train/javascript)|3|JS|[path](./katas/makeASpiral/)|[solution](./katas/makeASpiral/kata.js)|
-|[Make a spiral](https://www.codewars.com/kata/5a86073fb17101e453000258/train/javascript)|3|JS|[path](./katas/makeASpiral/)|[solution](./katas/makeASpiral/kata.js)|
