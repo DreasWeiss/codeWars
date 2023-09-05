@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Is n divisible by (...)?](https://www.codewars.com/kata/558ee8415872565824000007/train/javascript)|7|JS|[path](./katas/isNDivisibleBy/)|[solution](./katas/isNDivisibleBy/kata.js)|
 [Perfect squares, perfect fun](https://www.codewars.com/kata/5705ca6a41e5be67720012c0/train/javascript)|7|JS|[path](./katas/perfectSquaresPerfectFun/)|[solution](./katas/perfectSquaresPerfectFun/kata.js)|
 [Cats in hats](https://www.codewars.com/kata/57b5907920b104772c00002a/train/javascript)|7|JS|[path](./katas/catsInHats/)|[solution](./katas/catsInHats/kata.js)|
 [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript)|7|JS|[path](./katas/vowelCount/)|[solution](./katas/vowelCount/kata.js)|
