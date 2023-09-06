@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/train/javascript)|8|JS|[path](./katas/holidayViiiDutyFree/)|[solution](./katas/holidayViiiDutyFree/kata.js)|
 [Is n divisible by (...)?](https://www.codewars.com/kata/558ee8415872565824000007/train/javascript)|7|JS|[path](./katas/isNDivisibleBy/)|[solution](./katas/isNDivisibleBy/kata.js)|
 [Perfect squares, perfect fun](https://www.codewars.com/kata/5705ca6a41e5be67720012c0/train/javascript)|7|JS|[path](./katas/perfectSquaresPerfectFun/)|[solution](./katas/perfectSquaresPerfectFun/kata.js)|
 [Cats in hats](https://www.codewars.com/kata/57b5907920b104772c00002a/train/javascript)|7|JS|[path](./katas/catsInHats/)|[solution](./katas/catsInHats/kata.js)|
