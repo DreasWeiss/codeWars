@@ -13,7 +13,6 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
 [get ascii value of character](https://www.codewars.com/kata/55acfc59c3c23d230f00006d/train/javascript)|8|JS|[path](./katas/getAsciiValueOfCharacter/)|[solution](./katas/getAsciiValueOfCharacter/kata.js)|
-[get ascii value of character](https://www.codewars.com/kata/55acfc59c3c23d230f00006d/train/javascript)|8|JS|[path](./katas/getAsciiValueOfCharacter/)|[solution](./katas/getAsciiValueOfCharacter/kata.js)|
 [Area of a Circle](https://www.codewars.com/kata/563fb342f47611dae800003c/train/javascript)|7|JS|[path](./katas/areaOfACircle/)|[solution](./katas/areaOfACircle/kata.js)|
 [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/train/javascript)|8|JS|[path](./katas/holidayViiiDutyFree/)|[solution](./katas/holidayViiiDutyFree/kata.js)|
 [Is n divisible by (...)?](https://www.codewars.com/kata/558ee8415872565824000007/train/javascript)|7|JS|[path](./katas/isNDivisibleBy/)|[solution](./katas/isNDivisibleBy/kata.js)|
