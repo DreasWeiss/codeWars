@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Character Concatenation](https://www.codewars.com/kata/55147ff29cd40b43c600058b/train/javascript)|7|JS|[path](./katas/characterConcatenation/)|[solution](./katas/characterConcatenation/kata.js)|
 [Count the Ones](https://www.codewars.com/kata/5519e930cd82ff8a9a000216/train/javascript)|7|JS|[path](./katas/countTheOnes/)|[solution](./katas/countTheOnes/kata.js)|
 [get ascii value of character](https://www.codewars.com/kata/55acfc59c3c23d230f00006d/train/javascript)|8|JS|[path](./katas/getAsciiValueOfCharacter/)|[solution](./katas/getAsciiValueOfCharacter/kata.js)|
 [Area of a Circle](https://www.codewars.com/kata/563fb342f47611dae800003c/train/javascript)|7|JS|[path](./katas/areaOfACircle/)|[solution](./katas/areaOfACircle/kata.js)|
