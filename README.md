@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Grasshopper - Debug](https://www.codewars.com/kata/55cb854deb36f11f130000e1/train/javascript)|8|JS|[path](./katas/grasshopperDebug/)|[solution](./katas/grasshopperDebug/kata.js)|
 [Basic variable assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025/train/javascript)|8|JS|[path](./katas/basicVariableAssignment/)|[solution](./katas/basicVariableAssignment/kata.js)|
 [Multi-tap Keypad Text Entry on an Old Mobile Phone](https://www.codewars.com/kata/54a2e93b22d236498400134b/train/javascript)|6|JS|[path](./katas/multiTapKeypadTextEntryOnAnOldMobilePhone/)|[solution](./katas/multiTapKeypadTextEntryOnAnOldMobilePhone/kata.js)|
 [Character Concatenation](https://www.codewars.com/kata/55147ff29cd40b43c600058b/train/javascript)|7|JS|[path](./katas/characterConcatenation/)|[solution](./katas/characterConcatenation/kata.js)|

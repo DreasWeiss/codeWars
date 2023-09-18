@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Grasshopper - Debug](https://www.codewars.com/kata/55cb854deb36f11f130000e1/train/javascript)|8|JS|[path](./katas/grasshopperDebug/)|[solution](./katas/grasshopperDebug/kata.js)|
 [Basic variable assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025/train/javascript)|8|JS|[path](./katas/basicVariableAssignment/)|[solution](./katas/basicVariableAssignment/kata.js)|
 [get ascii value of character](https://www.codewars.com/kata/55acfc59c3c23d230f00006d/train/javascript)|8|JS|[path](./katas/getAsciiValueOfCharacter/)|[solution](./katas/getAsciiValueOfCharacter/kata.js)|
 [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/train/javascript)|8|JS|[path](./katas/holidayViiiDutyFree/)|[solution](./katas/holidayViiiDutyFree/kata.js)|
