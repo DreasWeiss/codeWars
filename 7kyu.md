@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Convert Improper Fraction to Mixed Numeral](https://www.codewars.com/kata/574e4175ff5b0a554a00000b/train/javascript)|7|JS|[path](./katas/convertImproperFractionToMixedNumeral/)|[solution](./katas/convertImproperFractionToMixedNumeral/kata.js)|
 [Character Concatenation](https://www.codewars.com/kata/55147ff29cd40b43c600058b/train/javascript)|7|JS|[path](./katas/characterConcatenation/)|[solution](./katas/characterConcatenation/kata.js)|
 [Count the Ones](https://www.codewars.com/kata/5519e930cd82ff8a9a000216/train/javascript)|7|JS|[path](./katas/countTheOnes/)|[solution](./katas/countTheOnes/kata.js)|
 [Area of a Circle](https://www.codewars.com/kata/563fb342f47611dae800003c/train/javascript)|7|JS|[path](./katas/areaOfACircle/)|[solution](./katas/areaOfACircle/kata.js)|
