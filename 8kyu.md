@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Is your period late?](https://www.codewars.com/kata/578a8a01e9fd1549e50001f1/train/javascript)|8|JS|[path](./katas/isYourPeriodLate/)|[solution](./katas/isYourPeriodLate/kata.js)|
 [Unfinished Loop - Bug Fixing #1](https://www.codewars.com/kata/574e4175ff5b0a554a00000b/train/javascript)|8|JS|[path](./katas/unfinishedLoopBugFixing1/)|[solution](./katas/unfinishedLoopBugFixing1/kata.js)|
 [Grasshopper - Debug](https://www.codewars.com/kata/55cb854deb36f11f130000e1/train/javascript)|8|JS|[path](./katas/grasshopperDebug/)|[solution](./katas/grasshopperDebug/kata.js)|
 [Basic variable assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025/train/javascript)|8|JS|[path](./katas/basicVariableAssignment/)|[solution](./katas/basicVariableAssignment/kata.js)|
