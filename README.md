@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Reversing Words in a String](https://www.codewars.com/kata/578a8a01e9fd1549e50001f1/train/javascript)|8|JS|[path](./katas/isYourPeriodLate/)|[solution](./katas/isYourPeriodLate/kata.js)|
 [Is your period late?](https://www.codewars.com/kata/578a8a01e9fd1549e50001f1/train/javascript)|8|JS|[path](./katas/isYourPeriodLate/)|[solution](./katas/isYourPeriodLate/kata.js)|
 [Unfinished Loop - Bug Fixing #1](https://www.codewars.com/kata/574e4175ff5b0a554a00000b/train/javascript)|8|JS|[path](./katas/unfinishedLoopBugFixing1/)|[solution](./katas/unfinishedLoopBugFixing1/kata.js)|
 [Convert Improper Fraction to Mixed Numeral](https://www.codewars.com/kata/574e4175ff5b0a554a00000b/train/javascript)|7|JS|[path](./katas/convertImproperFractionToMixedNumeral/)|[solution](./katas/convertImproperFractionToMixedNumeral/kata.js)|
