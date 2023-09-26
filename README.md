@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Refactored Greeting](https://www.codewars.com/kata/5121303128ef4b495f000001/train/javascript)|7|JS|[path](./katas/refactoredGreeting/)|[solution](./katas/refactoredGreeting/kata.js)|
 [Up and down, the string grows](https://www.codewars.com/kata/644b17b56ed5527b09057987/train/javascript)|8|JS|[path](./katas/upAndDownTheStringGrows/)|[solution](./katas/upAndDownTheStringGrows/kata.js)|
 [Reversing Words in a String](https://www.codewars.com/kata/578a8a01e9fd1549e50001f1/train/javascript)|8|JS|[path](./katas/reversingWordsInAString/)|[solution](./katas/reversingWordsInAString/kata.js)|
 [Is your period late?](https://www.codewars.com/kata/578a8a01e9fd1549e50001f1/train/javascript)|8|JS|[path](./katas/isYourPeriodLate/)|[solution](./katas/isYourPeriodLate/kata.js)|

@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Refactored Greeting](https://www.codewars.com/kata/5121303128ef4b495f000001/train/javascript)|7|JS|[path](./katas/refactoredGreeting/)|[solution](./katas/refactoredGreeting/kata.js)|
 [Convert Improper Fraction to Mixed Numeral](https://www.codewars.com/kata/574e4175ff5b0a554a00000b/train/javascript)|7|JS|[path](./katas/convertImproperFractionToMixedNumeral/)|[solution](./katas/convertImproperFractionToMixedNumeral/kata.js)|
 [Character Concatenation](https://www.codewars.com/kata/55147ff29cd40b43c600058b/train/javascript)|7|JS|[path](./katas/characterConcatenation/)|[solution](./katas/characterConcatenation/kata.js)|
 [Count the Ones](https://www.codewars.com/kata/5519e930cd82ff8a9a000216/train/javascript)|7|JS|[path](./katas/countTheOnes/)|[solution](./katas/countTheOnes/kata.js)|
