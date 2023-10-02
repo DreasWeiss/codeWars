@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Bin to Decimal](https://www.codewars.com/kata/5631213916d70a0979000066/train/javascript)|8|JS|[path](./katas/binToDecimal/)|[solution](./katas/binToDecimal/kata.js)|
 [Number-Star ladder](https://www.codewars.com/kata/5631213916d70a0979000066/train/javascript)|7|JS|[path](./katas/numberStarLadder/)|[solution](./katas/numberStarLadder/kata.js)|
 [How many consecutive numbers are needed?](https://www.codewars.com/kata/559cc2d2b802a5c94700000c/train/javascript)|7|JS|[path](./katas/howManyConsecutiveNumbersAreNeeded/)|[solution](./katas/howManyConsecutiveNumbersAreNeeded/kata.js)|
 [Numbers in strings](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014/train/javascript)|7|JS|[path](./katas/numbersInStrings/)|[solution](./katas/numbersInStrings/kata.js)|
