@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Hit Count](https://www.codewars.com/kata/57b6f850a6fdc76523001162/train/javascript)|7|JS|[path](./katas/hitCount/)|[solution](./katas/hitCount/kata.js)|
 [Boiled Eggs](https://www.codewars.com/kata/52b5247074ea613a09000164/train/javascript)|7|JS|[path](./katas/boiledEggs/)|[solution](./katas/boiledEggs/kata.js)|
 [Number-Star ladder](https://www.codewars.com/kata/5631213916d70a0979000066/train/javascript)|7|JS|[path](./katas/numberStarLadder/)|[solution](./katas/numberStarLadder/kata.js)|
 [How many consecutive numbers are needed?](https://www.codewars.com/kata/559cc2d2b802a5c94700000c/train/javascript)|7|JS|[path](./katas/howManyConsecutiveNumbersAreNeeded/)|[solution](./katas/howManyConsecutiveNumbersAreNeeded/kata.js)|
