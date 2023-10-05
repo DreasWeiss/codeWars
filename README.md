@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
 [Hit Count](https://www.codewars.com/kata/57b6f850a6fdc76523001162/train/javascript)|7|JS|[path](./katas/hitCount/)|[solution](./katas/hitCount/kata.js)|
+[Hit Count](https://www.codewars.com/kata/57b6f850a6fdc76523001162/train/javascript)|7|JS|[path](./katas/hitCount/)|[solution](./katas/hitCount/kata.js)|
 [Boiled Eggs](https://www.codewars.com/kata/52b5247074ea613a09000164/train/javascript)|7|JS|[path](./katas/boiledEggs/)|[solution](./katas/boiledEggs/kata.js)|
 [Bin to Decimal](https://www.codewars.com/kata/5631213916d70a0979000066/train/javascript)|8|JS|[path](./katas/binToDecimal/)|[solution](./katas/binToDecimal/kata.js)|
 [Number-Star ladder](https://www.codewars.com/kata/5631213916d70a0979000066/train/javascript)|7|JS|[path](./katas/numberStarLadder/)|[solution](./katas/numberStarLadder/kata.js)|
