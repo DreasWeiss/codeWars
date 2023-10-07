@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Consecutive letters](https://www.codewars.com/kata/5ce6728c939bf80029988b57/train/javascript)|7|JS|[path](./katas/consecutiveLetters/)|[solution](./katas/consecutiveLetters/kata.js)|
 [Simple beads count](https://www.codewars.com/kata/58712dfa5c538b6fc7000569/train/javascript)|7|JS|[path](./katas/simpleBeadsCount/)|[solution](./katas/simpleBeadsCount/kata.js)|
 [Hit Count](https://www.codewars.com/kata/57b6f850a6fdc76523001162/train/javascript)|7|JS|[path](./katas/hitCount/)|[solution](./katas/hitCount/kata.js)|
 [Boiled Eggs](https://www.codewars.com/kata/52b5247074ea613a09000164/train/javascript)|7|JS|[path](./katas/boiledEggs/)|[solution](./katas/boiledEggs/kata.js)|
