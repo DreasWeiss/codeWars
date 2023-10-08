@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Wilson primes](https://www.codewars.com/kata/55dc4520094bbaf50e0000cb/train/javascript)|8|JS|[path](./katas/wilsonPrimes/)|[solution](./katas/wilsonPrimes/kata.js)|
 [Bin to Decimal](https://www.codewars.com/kata/5631213916d70a0979000066/train/javascript)|8|JS|[path](./katas/binToDecimal/)|[solution](./katas/binToDecimal/kata.js)|
 [Up and down, the string grows](https://www.codewars.com/kata/644b17b56ed5527b09057987/train/javascript)|8|JS|[path](./katas/upAndDownTheStringGrows/)|[solution](./katas/upAndDownTheStringGrows/kata.js)|
 [Reversing Words in a String](https://www.codewars.com/kata/578a8a01e9fd1549e50001f1/train/javascript)|8|JS|[path](./katas/reversingWordsInAString/)|[solution](./katas/reversingWordsInAString/kata.js)|
