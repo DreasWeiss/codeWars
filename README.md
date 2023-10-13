@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[JavaScript Array Filter](https://www.codewars.com/kata/514a6336889283a3d2000001/train/javascript)|7|JS|[path](./katas/javaScriptArrayFilter/)|[solution](./katas/javaScriptArrayFilter/kata.js)|
 [Wilson primes](https://www.codewars.com/kata/55dc4520094bbaf50e0000cb/train/javascript)|8|JS|[path](./katas/wilsonPrimes/)|[solution](./katas/wilsonPrimes/kata.js)|
 [Consecutive letters](https://www.codewars.com/kata/5ce6728c939bf80029988b57/train/javascript)|7|JS|[path](./katas/consecutiveLetters/)|[solution](./katas/consecutiveLetters/kata.js)|
 [Simple beads count](https://www.codewars.com/kata/58712dfa5c538b6fc7000569/train/javascript)|7|JS|[path](./katas/simpleBeadsCount/)|[solution](./katas/simpleBeadsCount/kata.js)|
