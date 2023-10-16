@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Get Planet Name By ID](https://www.codewars.com/kata/515e188a311df01cba000003/train/javascript)|8|JS|[path](./katas/getPlanetNameById/)|[solution](./katas/getPlanetNameById/kata.js)|
 [Collatz Conjecture (3n+1)](https://www.codewars.com/kata/577a6e90d48e51c55e000217/train/javascript)|8|JS|[path](./katas/collatzConjecture3n1/)|[solution](./katas/collatzConjecture3n1/kata.js)|
 [Wilson primes](https://www.codewars.com/kata/55dc4520094bbaf50e0000cb/train/javascript)|8|JS|[path](./katas/wilsonPrimes/)|[solution](./katas/wilsonPrimes/kata.js)|
 [Bin to Decimal](https://www.codewars.com/kata/5631213916d70a0979000066/train/javascript)|8|JS|[path](./katas/binToDecimal/)|[solution](./katas/binToDecimal/kata.js)|
