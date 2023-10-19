@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Number of Decimal Digits](https://www.codewars.com/kata/58fa273ca6d84c158e000052/train/javascript)|7|JS|[path](./katas/numberOfDecimalDigits/)|[solution](./katas/numberOfDecimalDigits/kata.js)|
 [Find Factors Down to Limit](https://www.codewars.com/kata/58f6024e1e26ec376900004f/train/javascript)|7|JS|[path](./katas/findFactorsDownToLimit/)|[solution](./katas/findFactorsDownToLimit/kata.js)|
 [Calculate Price Excluding VAT](https://www.codewars.com/kata/515e188a311df01cba000003/train/javascript)|8|JS|[path](./katas/calculatePriceExcludingVat/)|[solution](./katas/calculatePriceExcludingVat/kata.js)|
 [Get Planet Name By ID](https://www.codewars.com/kata/515e188a311df01cba000003/train/javascript)|8|JS|[path](./katas/getPlanetNameById/)|[solution](./katas/getPlanetNameById/kata.js)|
