@@ -14,7 +14,6 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
 [Target Date](https://www.codewars.com/kata/569218bc919ccba77000000b/train/javascript)|7|JS|[path](./katas/targetDate/)|[solution](./katas/targetDate/kata.js)|
-[Target Date](https://www.codewars.com/kata/569218bc919ccba77000000b/train/javascript)|7|JS|[path](./katas/targetDate/)|[solution](./katas/targetDate/kata.js)|
 [Number of Decimal Digits](https://www.codewars.com/kata/58fa273ca6d84c158e000052/train/javascript)|7|JS|[path](./katas/numberOfDecimalDigits/)|[solution](./katas/numberOfDecimalDigits/kata.js)|
 [Find Factors Down to Limit](https://www.codewars.com/kata/58f6024e1e26ec376900004f/train/javascript)|7|JS|[path](./katas/findFactorsDownToLimit/)|[solution](./katas/findFactorsDownToLimit/kata.js)|
 [JavaScript Array Filter](https://www.codewars.com/kata/514a6336889283a3d2000001/train/javascript)|7|JS|[path](./katas/javaScriptArrayFilter/)|[solution](./katas/javaScriptArrayFilter/kata.js)|
