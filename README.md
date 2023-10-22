@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Spin Around, Touch the Ground](https://www.codewars.com/kata/65127141a5de2b1dcb40927e/train/javascript)|7|JS|[path](./katas/spinAroundTouchTheGround/)|[solution](./katas/spinAroundTouchTheGround/kata.js)|
 [Target Date](https://www.codewars.com/kata/569218bc919ccba77000000b/train/javascript)|7|JS|[path](./katas/targetDate/)|[solution](./katas/targetDate/kata.js)|
 [Number of Decimal Digits](https://www.codewars.com/kata/58fa273ca6d84c158e000052/train/javascript)|7|JS|[path](./katas/numberOfDecimalDigits/)|[solution](./katas/numberOfDecimalDigits/kata.js)|
 [Find Factors Down to Limit](https://www.codewars.com/kata/58f6024e1e26ec376900004f/train/javascript)|7|JS|[path](./katas/findFactorsDownToLimit/)|[solution](./katas/findFactorsDownToLimit/kata.js)|
