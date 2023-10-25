@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Function 2 - squaring an argument](https://www.codewars.com/kata/523b623152af8a30c6000027/train/javascript)|8|JS|[path](./katas/function2SquaringAnArgument/)|[solution](./katas/function2SquaringAnArgument/kata.js)|
 [Calculate Price Excluding VAT](https://www.codewars.com/kata/515e188a311df01cba000003/train/javascript)|8|JS|[path](./katas/calculatePriceExcludingVat/)|[solution](./katas/calculatePriceExcludingVat/kata.js)|
 [Get Planet Name By ID](https://www.codewars.com/kata/515e188a311df01cba000003/train/javascript)|8|JS|[path](./katas/getPlanetNameById/)|[solution](./katas/getPlanetNameById/kata.js)|
 [Collatz Conjecture (3n+1)](https://www.codewars.com/kata/577a6e90d48e51c55e000217/train/javascript)|8|JS|[path](./katas/collatzConjecture3n1/)|[solution](./katas/collatzConjecture3n1/kata.js)|
