@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Uglify Word](https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929/train/javascript)|7|JS|[path](./katas/uglifyWord/)|[solution](./katas/uglifyWord/kata.js)|
 [Bubblesort Once](https://www.codewars.com/kata/56b97b776ffcea598a0006f2/train/javascript)|7|JS|[path](./katas/bubblesortOnce/)|[solution](./katas/bubblesortOnce/kata.js)|
 [Sort array by string length](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/train/javascript)|7|JS|[path](./katas/sortArrayByStringLength/)|[solution](./katas/sortArrayByStringLength/kata.js)|
 [Spin Around, Touch the Ground](https://www.codewars.com/kata/65127141a5de2b1dcb40927e/train/javascript)|7|JS|[path](./katas/spinAroundTouchTheGround/)|[solution](./katas/spinAroundTouchTheGround/kata.js)|
