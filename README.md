@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Plural](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a/train/javascript)|8|JS|[path](./katas/plural/)|[solution](./katas/plural/kata.js)|
 [Uglify Word](https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929/train/javascript)|7|JS|[path](./katas/uglifyWord/)|[solution](./katas/uglifyWord/kata.js)|
 [Function 2 - squaring an argument](https://www.codewars.com/kata/523b623152af8a30c6000027/train/javascript)|8|JS|[path](./katas/function2SquaringAnArgument/)|[solution](./katas/function2SquaringAnArgument/kata.js)|
 [Bubblesort Once](https://www.codewars.com/kata/56b97b776ffcea598a0006f2/train/javascript)|7|JS|[path](./katas/bubblesortOnce/)|[solution](./katas/bubblesortOnce/kata.js)|
