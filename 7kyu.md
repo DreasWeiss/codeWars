@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Even numbers in an array](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c/train/javascript)|7|JS|[path](./katas/evenNumbersInAnArray/)|[solution](./katas/evenNumbersInAnArray/kata.js)|
 [Uglify Word](https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929/train/javascript)|7|JS|[path](./katas/uglifyWord/)|[solution](./katas/uglifyWord/kata.js)|
 [Bubblesort Once](https://www.codewars.com/kata/56b97b776ffcea598a0006f2/train/javascript)|7|JS|[path](./katas/bubblesortOnce/)|[solution](./katas/bubblesortOnce/kata.js)|
 [Sort array by string length](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/train/javascript)|7|JS|[path](./katas/sortArrayByStringLength/)|[solution](./katas/sortArrayByStringLength/kata.js)|
