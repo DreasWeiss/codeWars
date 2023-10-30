@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Merging sorted integer arrays (without duplicates)](https://www.codewars.com/kata/573f5c61e7752709df0005d2/train/javascript)|8|JS|[path](./katas/mergingSortedIntegerArraysWithoutDuplicates/)|[solution](./katas/mergingSortedIntegerArraysWithoutDuplicates/kata.js)|
 [Find The Duplicated Number in a Consecutive Unsorted List](https://www.codewars.com/kata/558dd9a1b3f79dc88e000001/train/javascript)|7|JS|[path](./katas/findTheDuplicatedNumberInAConsecutiveUnsortedList/)|[solution](./katas/findTheDuplicatedNumberInAConsecutiveUnsortedList/kata.js)|
 [Even numbers in an array](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c/train/javascript)|7|JS|[path](./katas/evenNumbersInAnArray/)|[solution](./katas/evenNumbersInAnArray/kata.js)|
 [Plural](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a/train/javascript)|8|JS|[path](./katas/plural/)|[solution](./katas/plural/kata.js)|
