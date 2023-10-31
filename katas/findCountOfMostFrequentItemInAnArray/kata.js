@@ -1,5 +1,10 @@
 function mostFrequentItemCount(collection) {
     // Do your magic. :)
+    let a = collection.sort((a, b) =>
+        collection.filter(i => i === b).length
+        - collection.filter(i => i === a).length)[0]
+
+    return collection.filter(i => i === a).length;
 }
 
 
