@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Number climber](https://www.codewars.com/kata/559760bae64c31556c00006b/train/javascript)|7|JS|[path](./katas/numberClimber/)|[solution](./katas/numberClimber/kata.js)|
 [Find Count of Most Frequent Item in an Array](https://www.codewars.com/kata/56582133c932d8239900002e/train/javascript)|7|JS|[path](./katas/findCountOfMostFrequentItemInAnArray/)|[solution](./katas/findCountOfMostFrequentItemInAnArray/kata.js)|
 [Find The Duplicated Number in a Consecutive Unsorted List](https://www.codewars.com/kata/558dd9a1b3f79dc88e000001/train/javascript)|7|JS|[path](./katas/findTheDuplicatedNumberInAConsecutiveUnsortedList/)|[solution](./katas/findTheDuplicatedNumberInAConsecutiveUnsortedList/kata.js)|
 [Even numbers in an array](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c/train/javascript)|7|JS|[path](./katas/evenNumbersInAnArray/)|[solution](./katas/evenNumbersInAnArray/kata.js)|

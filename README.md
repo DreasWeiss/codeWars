@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Number climber](https://www.codewars.com/kata/559760bae64c31556c00006b/train/javascript)|7|JS|[path](./katas/numberClimber/)|[solution](./katas/numberClimber/kata.js)|
 [Geometry Basics: Distance between points in 2D](https://www.codewars.com/kata/58dced7b702b805b200000be/train/javascript)|8|JS|[path](./katas/geometryBasicsDistanceBetweenPointsIn2d/)|[solution](./katas/geometryBasicsDistanceBetweenPointsIn2d/kata.js)|
 [Find Count of Most Frequent Item in an Array](https://www.codewars.com/kata/56582133c932d8239900002e/train/javascript)|7|JS|[path](./katas/findCountOfMostFrequentItemInAnArray/)|[solution](./katas/findCountOfMostFrequentItemInAnArray/kata.js)|
 [Merging sorted integer arrays (without duplicates)](https://www.codewars.com/kata/573f5c61e7752709df0005d2/train/javascript)|8|JS|[path](./katas/mergingSortedIntegerArraysWithoutDuplicates/)|[solution](./katas/mergingSortedIntegerArraysWithoutDuplicates/kata.js)|
