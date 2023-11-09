@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[8kyu interpreters: HQ9+](https://www.codewars.com/kata/591588d49f4056e13f000001/train/javascript)|8|JS|[path](./katas/8kyuInterpretersHq9/)|[solution](./katas/8kyuInterpretersHq9/kata.js)|
 [All Inclusive?](https://www.codewars.com/kata/5700c9acc1555755be00027e/train/javascript)|7|JS|[path](./katas/allInclusive/)|[solution](./katas/allInclusive/kata.js)|
 [Number climber](https://www.codewars.com/kata/559760bae64c31556c00006b/train/javascript)|7|JS|[path](./katas/numberClimber/)|[solution](./katas/numberClimber/kata.js)|
 [Geometry Basics: Distance between points in 2D](https://www.codewars.com/kata/58dced7b702b805b200000be/train/javascript)|8|JS|[path](./katas/geometryBasicsDistanceBetweenPointsIn2d/)|[solution](./katas/geometryBasicsDistanceBetweenPointsIn2d/kata.js)|

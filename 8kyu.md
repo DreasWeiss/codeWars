@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[8kyu interpreters: HQ9+](https://www.codewars.com/kata/591588d49f4056e13f000001/train/javascript)|8|JS|[path](./katas/8kyuInterpretersHq9/)|[solution](./katas/8kyuInterpretersHq9/kata.js)|
 [Geometry Basics: Distance between points in 2D](https://www.codewars.com/kata/58dced7b702b805b200000be/train/javascript)|8|JS|[path](./katas/geometryBasicsDistanceBetweenPointsIn2d/)|[solution](./katas/geometryBasicsDistanceBetweenPointsIn2d/kata.js)|
 [Merging sorted integer arrays (without duplicates)](https://www.codewars.com/kata/573f5c61e7752709df0005d2/train/javascript)|8|JS|[path](./katas/mergingSortedIntegerArraysWithoutDuplicates/)|[solution](./katas/mergingSortedIntegerArraysWithoutDuplicates/kata.js)|
 [Plural](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a/train/javascript)|8|JS|[path](./katas/plural/)|[solution](./katas/plural/kata.js)|
