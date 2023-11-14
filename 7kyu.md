@@ -13,7 +13,6 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
-[8kyu interpreters: HQ9+](https://www.codewars.com/kata/591588d49f4056e13f000001/train/javascript)|8|JS|[path](./katas/8kyuInterpretersHq9/)|[solution](./katas/8kyuInterpretersHq9/kata.js)|
 [All Inclusive?](https://www.codewars.com/kata/5700c9acc1555755be00027e/train/javascript)|7|JS|[path](./katas/allInclusive/)|[solution](./katas/allInclusive/kata.js)|
 [Number climber](https://www.codewars.com/kata/559760bae64c31556c00006b/train/javascript)|7|JS|[path](./katas/numberClimber/)|[solution](./katas/numberClimber/kata.js)|
 [Find Count of Most Frequent Item in an Array](https://www.codewars.com/kata/56582133c932d8239900002e/train/javascript)|7|JS|[path](./katas/findCountOfMostFrequentItemInAnArray/)|[solution](./katas/findCountOfMostFrequentItemInAnArray/kata.js)|
