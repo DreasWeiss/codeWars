@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[shorter concat [reverse longer]](https://www.codewars.com/kata/54557d61126a00423b000a45/train/javascript)|7|JS|[path](./katas/shorterConcatReverseLonger/)|[solution](./katas/shorterConcatReverseLonger/kata.js)|
 [Power of two](https://www.codewars.com/kata/534d0a229345375d520006a0/train/javascript)|7|JS|[path](./katas/powerOfTwo/)|[solution](./katas/powerOfTwo/kata.js)|
 [The @ operator](https://www.codewars.com/kata/631f0c3a0b9cb0de6ded0529/train/typescript)|7|JS|[path](./katas/the@Operator/)|[solution](./katas/the@Operator/kata.js)|
 [All Inclusive?](https://www.codewars.com/kata/5700c9acc1555755be00027e/train/javascript)|7|JS|[path](./katas/allInclusive/)|[solution](./katas/allInclusive/kata.js)|
