@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Basic subclasses - Adam and Eve](https://www.codewars.com/kata/547274e24481cfc469000416/train/javascript)|8|JS|[path](./katas/basicSubclassesAdamAndEve/)|[solution](./katas/basicSubclassesAdamAndEve/kata.js)|
 [shorter concat [reverse longer]](https://www.codewars.com/kata/54557d61126a00423b000a45/train/javascript)|7|JS|[path](./katas/shorterConcatReverseLonger/)|[solution](./katas/shorterConcatReverseLonger/kata.js)|
 [easy logs](https://www.codewars.com/kata/5b68c7029756802aa2000176/train/javascript)|8|JS|[path](./katas/easyLogs/)|[solution](./katas/easyLogs/kata.js)|
 [Power of two](https://www.codewars.com/kata/534d0a229345375d520006a0/train/javascript)|7|JS|[path](./katas/powerOfTwo/)|[solution](./katas/powerOfTwo/kata.js)|

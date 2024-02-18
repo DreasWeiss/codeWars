@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Basic subclasses - Adam and Eve](https://www.codewars.com/kata/547274e24481cfc469000416/train/javascript)|8|JS|[path](./katas/basicSubclassesAdamAndEve/)|[solution](./katas/basicSubclassesAdamAndEve/kata.js)|
 [easy logs](https://www.codewars.com/kata/5b68c7029756802aa2000176/train/javascript)|8|JS|[path](./katas/easyLogs/)|[solution](./katas/easyLogs/kata.js)|
 [8kyu interpreters: HQ9+](https://www.codewars.com/kata/591588d49f4056e13f000001/train/javascript)|8|JS|[path](./katas/8kyuInterpretersHq9/)|[solution](./katas/8kyuInterpretersHq9/kata.js)|
 [Geometry Basics: Distance between points in 2D](https://www.codewars.com/kata/58dced7b702b805b200000be/train/javascript)|8|JS|[path](./katas/geometryBasicsDistanceBetweenPointsIn2d/)|[solution](./katas/geometryBasicsDistanceBetweenPointsIn2d/kata.js)|
