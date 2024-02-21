@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Multiply the number](https://www.codewars.com/kata/5708f682c69b48047b000e07/train/javascript)|8|JS|[path](./katas/multiplyTheNumber/)|[solution](./katas/multiplyTheNumber/kata.js)|
 [Days in the year](https://www.codewars.com/kata/56d6c333c9ae3fc32800070f)|8|JS|[path](./katas/daysInTheYear/)|[solution](./katas/daysInTheYear/kata.js)|
 [Basic subclasses - Adam and Eve](https://www.codewars.com/kata/547274e24481cfc469000416/train/javascript)|8|JS|[path](./katas/basicSubclassesAdamAndEve/)|[solution](./katas/basicSubclassesAdamAndEve/kata.js)|
 [easy logs](https://www.codewars.com/kata/5b68c7029756802aa2000176/train/javascript)|8|JS|[path](./katas/easyLogs/)|[solution](./katas/easyLogs/kata.js)|
