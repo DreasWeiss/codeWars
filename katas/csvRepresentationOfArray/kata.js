@@ -7,7 +7,10 @@
 // }
 
 // #2
-const toCsvText = array => array.map(i=>i.join(',')).join('\n');
+// const toCsvText = array => array.map(i=>i.join(',')).join('\n');
+
+// #3
+const toCsvText = ar => ar.join('\n');
 
 
 console.log(toCsvText([
