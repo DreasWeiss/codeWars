@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[CSV representation of array](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036/train/javascript)|8|JS|[path](./katas/csvRepresentationOfArray/)|[solution](./katas/csvRepresentationOfArray/kata.js)|
 [Find the position!](https://www.codewars.com/kata/5808e2006b65bff35500008f/train/javascript)|8|JS|[path](./katas/findThePosition/)|[solution](./katas/findThePosition/kata.js)|
 [Multiply the number](https://www.codewars.com/kata/5708f682c69b48047b000e07/train/javascript)|8|JS|[path](./katas/multiplyTheNumber/)|[solution](./katas/multiplyTheNumber/kata.js)|
 [Days in the year](https://www.codewars.com/kata/56d6c333c9ae3fc32800070f)|8|JS|[path](./katas/daysInTheYear/)|[solution](./katas/daysInTheYear/kata.js)|
