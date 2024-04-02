@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Return pyramids](https://www.codewars.com/kata/5a1c28f9c9fc0ef2e900013b/train/javascript)|7|JS|[path](./katas/returnPyramids/)|[solution](./katas/returnPyramids/kata.js)|
 [Is it a letter?](https://www.codewars.com/kata/57a06b07cf1fa58b2b000252/train/javascript)|7|JS|[path](./katas/isItALetter/)|[solution](./katas/isItALetter/kata.js)|
 [CSV representation of array](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036/train/javascript)|8|JS|[path](./katas/csvRepresentationOfArray/)|[solution](./katas/csvRepresentationOfArray/kata.js)|
 [Find the position!](https://www.codewars.com/kata/5808e2006b65bff35500008f/train/javascript)|8|JS|[path](./katas/findThePosition/)|[solution](./katas/findThePosition/kata.js)|

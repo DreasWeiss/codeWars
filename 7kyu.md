@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Return pyramids](https://www.codewars.com/kata/5a1c28f9c9fc0ef2e900013b/train/javascript)|7|JS|[path](./katas/returnPyramids/)|[solution](./katas/returnPyramids/kata.js)|
 [Is it a letter?](https://www.codewars.com/kata/57a06b07cf1fa58b2b000252/train/javascript)|7|JS|[path](./katas/isItALetter/)|[solution](./katas/isItALetter/kata.js)|
 [shorter concat [reverse longer]](https://www.codewars.com/kata/54557d61126a00423b000a45/train/javascript)|7|JS|[path](./katas/shorterConcatReverseLonger/)|[solution](./katas/shorterConcatReverseLonger/kata.js)|
 [Power of two](https://www.codewars.com/kata/534d0a229345375d520006a0/train/javascript)|7|JS|[path](./katas/powerOfTwo/)|[solution](./katas/powerOfTwo/kata.js)|
