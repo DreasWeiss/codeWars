@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Fast cooking pancakes](https://www.codewars.com/kata/58552bdb68b034a1a80001fb/train/javascript)|7|JS|[path](./katas/fastCookingPancakes/)|[solution](./katas/fastCookingPancakes/kata.js)|
 [Simple Fun #352: Reagent Formula](https://www.codewars.com/kata/59c8b38423dacc7d95000008/train/javascript)|8|JS|[path](./katas/simpleFun352ReagentFormula/)|[solution](./katas/simpleFun352ReagentFormula/kata.js)|
 [Character Counter](https://www.codewars.com/kata/56786a687e9a88d1cf00005d/train/javascript)|7|JS|[path](./katas/characterCounter/)|[solution](./katas/characterCounter/kata.js)|
 [Return pyramids](https://www.codewars.com/kata/5a1c28f9c9fc0ef2e900013b/train/javascript)|7|JS|[path](./katas/returnPyramids/)|[solution](./katas/returnPyramids/kata.js)|
