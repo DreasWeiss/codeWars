@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Sleigh Authentication](https://www.codewars.com/kata/52adc142b2651f25a8000643/train/javascript)|8|JS|[path](./katas/sleighAuthentication/)|[solution](./katas/sleighAuthentication/kata.js)|
 [Cogs 2](https://www.codewars.com/kata/59e72bdcfc3c4974190000d9/train/javascript)|7|JS|[path](./katas/cogs2/)|[solution](./katas/cogs2/kata.js)|
 [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212/train/javascript)|8|JS|[path](./katas/wellOfIdeasEasyVersion/)|[solution](./katas/wellOfIdeasEasyVersion/kata.js)|
 [Fast cooking pancakes](https://www.codewars.com/kata/58552bdb68b034a1a80001fb/train/javascript)|7|JS|[path](./katas/fastCookingPancakes/)|[solution](./katas/fastCookingPancakes/kata.js)|

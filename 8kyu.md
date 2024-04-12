@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Sleigh Authentication](https://www.codewars.com/kata/52adc142b2651f25a8000643/train/javascript)|8|JS|[path](./katas/sleighAuthentication/)|[solution](./katas/sleighAuthentication/kata.js)|
 [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212/train/javascript)|8|JS|[path](./katas/wellOfIdeasEasyVersion/)|[solution](./katas/wellOfIdeasEasyVersion/kata.js)|
 [Simple Fun #352: Reagent Formula](https://www.codewars.com/kata/59c8b38423dacc7d95000008/train/javascript)|8|JS|[path](./katas/simpleFun352ReagentFormula/)|[solution](./katas/simpleFun352ReagentFormula/kata.js)|
 [CSV representation of array](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036/train/javascript)|8|JS|[path](./katas/csvRepresentationOfArray/)|[solution](./katas/csvRepresentationOfArray/kata.js)|
