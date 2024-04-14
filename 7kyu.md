@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Sum it continuously](https://www.codewars.com/kata/59b44d00bf10a439dd00006f/train/javascript)|7|JS|[path](./katas/sumItContinuously/)|[solution](./katas/sumItContinuously/kata.js)|
 [Cogs 2](https://www.codewars.com/kata/59e72bdcfc3c4974190000d9/train/javascript)|7|JS|[path](./katas/cogs2/)|[solution](./katas/cogs2/kata.js)|
 [Fast cooking pancakes](https://www.codewars.com/kata/58552bdb68b034a1a80001fb/train/javascript)|7|JS|[path](./katas/fastCookingPancakes/)|[solution](./katas/fastCookingPancakes/kata.js)|
 [Character Counter](https://www.codewars.com/kata/56786a687e9a88d1cf00005d/train/javascript)|7|JS|[path](./katas/characterCounter/)|[solution](./katas/characterCounter/kata.js)|

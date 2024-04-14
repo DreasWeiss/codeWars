@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Sum it continuously](https://www.codewars.com/kata/59b44d00bf10a439dd00006f/train/javascript)|7|JS|[path](./katas/sumItContinuously/)|[solution](./katas/sumItContinuously/kata.js)|
 [Sleigh Authentication](https://www.codewars.com/kata/52adc142b2651f25a8000643/train/javascript)|8|JS|[path](./katas/sleighAuthentication/)|[solution](./katas/sleighAuthentication/kata.js)|
 [Cogs 2](https://www.codewars.com/kata/59e72bdcfc3c4974190000d9/train/javascript)|7|JS|[path](./katas/cogs2/)|[solution](./katas/cogs2/kata.js)|
 [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212/train/javascript)|8|JS|[path](./katas/wellOfIdeasEasyVersion/)|[solution](./katas/wellOfIdeasEasyVersion/kata.js)|
