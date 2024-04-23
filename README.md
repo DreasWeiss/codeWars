@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Make Me Slow](https://www.codewars.com/kata/57f59da8d3978bb31f000152/train/javascript)|7|JS|[path](./katas/makeMeSlow/)|[solution](./katas/makeMeSlow/kata.js)|
 [Sort the Vowels!](https://www.codewars.com/kata/59e49b2afc3c494d5d00002a/train/javascript)|7|JS|[path](./katas/sortTheVowels/)|[solution](./katas/sortTheVowels/kata.js)|
 [Sum it continuously](https://www.codewars.com/kata/59b44d00bf10a439dd00006f/train/javascript)|7|JS|[path](./katas/sumItContinuously/)|[solution](./katas/sumItContinuously/kata.js)|
 [Sleigh Authentication](https://www.codewars.com/kata/52adc142b2651f25a8000643/train/javascript)|8|JS|[path](./katas/sleighAuthentication/)|[solution](./katas/sleighAuthentication/kata.js)|
