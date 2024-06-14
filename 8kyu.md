@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[get character from ASCII Value](https://www.codewars.com/kata/55ad04714f0b468e8200001c/train/javascript)|8|JS|[path](./katas/getCharacterFromAsciiValue/)|[solution](./katas/getCharacterFromAsciiValue/kata.js)|
 [Sleigh Authentication](https://www.codewars.com/kata/52adc142b2651f25a8000643/train/javascript)|8|JS|[path](./katas/sleighAuthentication/)|[solution](./katas/sleighAuthentication/kata.js)|
 [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212/train/javascript)|8|JS|[path](./katas/wellOfIdeasEasyVersion/)|[solution](./katas/wellOfIdeasEasyVersion/kata.js)|
 [Simple Fun #352: Reagent Formula](https://www.codewars.com/kata/59c8b38423dacc7d95000008/train/javascript)|8|JS|[path](./katas/simpleFun352ReagentFormula/)|[solution](./katas/simpleFun352ReagentFormula/kata.js)|

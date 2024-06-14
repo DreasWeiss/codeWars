@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[get character from ASCII Value](https://www.codewars.com/kata/55ad04714f0b468e8200001c/train/javascript)|8|JS|[path](./katas/getCharacterFromAsciiValue/)|[solution](./katas/getCharacterFromAsciiValue/kata.js)|
 [Only One Gift Per Child](https://www.codewars.com/kata/52af0d380fcae83a560008af/train/javascript)|7|JS|[path](./katas/onlyOneGiftPerChild/)|[solution](./katas/onlyOneGiftPerChild/kata.js)|
 [Make Me Slow](https://www.codewars.com/kata/57f59da8d3978bb31f000152/train/javascript)|7|JS|[path](./katas/makeMeSlow/)|[solution](./katas/makeMeSlow/kata.js)|
 [Sort the Vowels!](https://www.codewars.com/kata/59e49b2afc3c494d5d00002a/train/javascript)|7|JS|[path](./katas/sortTheVowels/)|[solution](./katas/sortTheVowels/kata.js)|
