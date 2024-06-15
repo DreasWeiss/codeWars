@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Sir , showMe yourID](https://www.codewars.com/kata/574c51aa3e4ea6de22001363/train/javascript)|7|JS|[path](./katas/sirShowmeYourid/)|[solution](./katas/sirShowmeYourid/kata.js)|
 [Only One Gift Per Child](https://www.codewars.com/kata/52af0d380fcae83a560008af/train/javascript)|7|JS|[path](./katas/onlyOneGiftPerChild/)|[solution](./katas/onlyOneGiftPerChild/kata.js)|
 [Make Me Slow](https://www.codewars.com/kata/57f59da8d3978bb31f000152/train/javascript)|7|JS|[path](./katas/makeMeSlow/)|[solution](./katas/makeMeSlow/kata.js)|
 [Sort the Vowels!](https://www.codewars.com/kata/59e49b2afc3c494d5d00002a/train/javascript)|7|JS|[path](./katas/sortTheVowels/)|[solution](./katas/sortTheVowels/kata.js)|
