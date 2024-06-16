@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+[Largest 5 digit number in a series](https://www.codewars.com/kata/51675d17e0c1bed195000001/train/javascript)|7|JS|[path](./katas/largest5DigitNumberInASeries/)|[solution](./katas/largest5DigitNumberInASeries/kata.js)|
 [Sir , showMe yourID](https://www.codewars.com/kata/574c51aa3e4ea6de22001363/train/javascript)|7|JS|[path](./katas/sirShowmeYourid/)|[solution](./katas/sirShowmeYourid/kata.js)|
 [get character from ASCII Value](https://www.codewars.com/kata/55ad04714f0b468e8200001c/train/javascript)|8|JS|[path](./katas/getCharacterFromAsciiValue/)|[solution](./katas/getCharacterFromAsciiValue/kata.js)|
 [Only One Gift Per Child](https://www.codewars.com/kata/52af0d380fcae83a560008af/train/javascript)|7|JS|[path](./katas/onlyOneGiftPerChild/)|[solution](./katas/onlyOneGiftPerChild/kata.js)|
