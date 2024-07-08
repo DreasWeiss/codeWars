@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[How many are smaller than me?](https://www.codewars.com/kata/56a1c074f87bc2201200002e/train/javascript)|7|JS|[path](./katas/howManyAreSmallerThanMe)|[solution](./katas/howManyAreSmallerThanMe/kata.js)|
 [Temperature converter](https://www.codewars.com/kata/54ce9497975ca65e1a0008c6/train/javascript)|6|JS|[path](./katas/temperatureConverter/)|[solution](./katas/temperatureConverter/kata.js)|
 [Chuck Norris VII - True or False? (Beginner)](https://www.codewars.com/kata/570669d8cb7293a2d1001473/train/javascript)|8|JS|[path](./katas/chuckNorrisViiTrueOrFalseBeginner/)|[solution](./katas/chuckNorrisViiTrueOrFalseBeginner/kata.js)|
 [Largest 5 digit number in a series](https://www.codewars.com/kata/51675d17e0c1bed195000001/train/javascript)|7|JS|[path](./katas/largest5DigitNumberInASeries/)|[solution](./katas/largest5DigitNumberInASeries/kata.js)|

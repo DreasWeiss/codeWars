@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[How many are smaller than me?](https://www.codewars.com/kata/56a1c074f87bc2201200002e/train/javascript)|7|JS|[path](./katas/howManyAreSmallerThanMe)|[solution](./katas/howManyAreSmallerThanMe/kata.js)|
 [Largest 5 digit number in a series](https://www.codewars.com/kata/51675d17e0c1bed195000001/train/javascript)|7|JS|[path](./katas/largest5DigitNumberInASeries/)|[solution](./katas/largest5DigitNumberInASeries/kata.js)|
 [Sir , showMe yourID](https://www.codewars.com/kata/574c51aa3e4ea6de22001363/train/javascript)|7|JS|[path](./katas/sirShowmeYourid/)|[solution](./katas/sirShowmeYourid/kata.js)|
 [Only One Gift Per Child](https://www.codewars.com/kata/52af0d380fcae83a560008af/train/javascript)|7|JS|[path](./katas/onlyOneGiftPerChild/)|[solution](./katas/onlyOneGiftPerChild/kata.js)|
