@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Clothes size number converter](https://www.codewars.com/kata/667dfbaa4570b2db26aedc8c/train/javascript)|7|JS|[path](./katas/clothesSizeNumberConverter)|[solution](./katas/clothesSizeNumberConverter/kata.js)|
 |[Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056/train/javascript)|7|JS|[path](./katas/maximumLengthDifference)|[solution](./katas/maximumLengthDifference/kata.js)|
 |[How many are smaller than me?](https://www.codewars.com/kata/56a1c074f87bc2201200002e/train/javascript)|7|JS|[path](./katas/howManyAreSmallerThanMe)|[solution](./katas/howManyAreSmallerThanMe/kata.js)|
 [Temperature converter](https://www.codewars.com/kata/54ce9497975ca65e1a0008c6/train/javascript)|6|JS|[path](./katas/temperatureConverter/)|[solution](./katas/temperatureConverter/kata.js)|

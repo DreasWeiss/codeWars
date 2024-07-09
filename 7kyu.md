@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Clothes size number converter](https://www.codewars.com/kata/667dfbaa4570b2db26aedc8c/train/javascript)|7|JS|[path](./katas/clothesSizeNumberConverter)|[solution](./katas/clothesSizeNumberConverter/kata.js)|
 |[Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056/train/javascript)|7|JS|[path](./katas/maximumLengthDifference)|[solution](./katas/maximumLengthDifference/kata.js)|
 |[How many are smaller than me?](https://www.codewars.com/kata/56a1c074f87bc2201200002e/train/javascript)|7|JS|[path](./katas/howManyAreSmallerThanMe)|[solution](./katas/howManyAreSmallerThanMe/kata.js)|
 [Largest 5 digit number in a series](https://www.codewars.com/kata/51675d17e0c1bed195000001/train/javascript)|7|JS|[path](./katas/largest5DigitNumberInASeries/)|[solution](./katas/largest5DigitNumberInASeries/kata.js)|
