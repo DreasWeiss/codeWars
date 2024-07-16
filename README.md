@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Sort the Gift Code](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3/train/javascript)|7|JS|[path](./katas/sortTheGiftCode)|[solution](./katas/sortTheGiftCode/kata.js)|
 |[Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/train/javascript)|7|JS|[path](./katas/simpleFun176ReverseLetter)|[solution](./katas/simpleFun176ReverseLetter/kata.js)|
 |[Block Dude](https://www.codewars.com/kata/64ef45cbcb89751e91ddbf9f/train/javascript)|7|JS|[path](./katas/blockDude)|[solution](./katas/blockDude/kata.js)|
 |[Clothes size number converter](https://www.codewars.com/kata/667dfbaa4570b2db26aedc8c/train/javascript)|7|JS|[path](./katas/clothesSizeNumberConverter)|[solution](./katas/clothesSizeNumberConverter/kata.js)|
