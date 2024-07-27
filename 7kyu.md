@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Find the divisors!](https://www.codewars.com/kata/544aed4c4a30184e960010f4/train/javascript)|7|JS|[path](./katas/findTheDivisors)|[solution](./katas/findTheDivisors/kata.js)|
 |[Recaman Sequence](https://www.codewars.com/kata/5c3f31c2460e9b4020780aa2/train/javascript)|7|JS|[path](./katas/recamanSequence)|[solution](./katas/recamanSequence/kata.js)|
 |[Sort the Gift Code](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3/train/javascript)|7|JS|[path](./katas/sortTheGiftCode)|[solution](./katas/sortTheGiftCode/kata.js)|
 |[Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/train/javascript)|7|JS|[path](./katas/simpleFun176ReverseLetter)|[solution](./katas/simpleFun176ReverseLetter/kata.js)|
