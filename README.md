@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[The Office III - Broken Photocopier](https://www.codewars.com/kata/57ed56657b45ef922300002b/train/javascript)|7|JS|[path](./katas/theOfficeIiiBrokenPhotocopier)|[solution](./katas/theOfficeIiiBrokenPhotocopier/kata.js)|
 |[Find the divisors!](https://www.codewars.com/kata/544aed4c4a30184e960010f4/train/javascript)|7|JS|[path](./katas/findTheDivisors)|[solution](./katas/findTheDivisors/kata.js)|
 |[Recaman Sequence](https://www.codewars.com/kata/5c3f31c2460e9b4020780aa2/train/javascript)|7|JS|[path](./katas/recamanSequence)|[solution](./katas/recamanSequence/kata.js)|
 |[Sort the Gift Code](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3/train/javascript)|7|JS|[path](./katas/sortTheGiftCode)|[solution](./katas/sortTheGiftCode/kata.js)|
