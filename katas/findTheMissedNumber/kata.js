@@ -31,15 +31,17 @@
 
 // #2
 const countString = (s) =>
-  s.split('').reduce((s, v) => (s[v]++, s), Array(10).fill(0));
+  s.split('')
+    .reduce((s, v) => (s[v]++, s), Array(10).fill(0));
 const findNumber = (start, stop, str) => {
   const countedStr = countString(str);
   const baseArray = Object.keys([...Array(stop + 1)]).slice(start);
   const countedBase = countString(baseArray.join(''));
   const countedDiff = countedBase.map((v, i) => v - countedStr[i]);
   return baseArray
-    .filter((n) => countString(n).join('') === countedDiff.join(''))
-    .map(Number);
+            .filter((n) => countString(n)
+            .join('') === countedDiff.join(''))
+            .map(Number);
 };
 
 
