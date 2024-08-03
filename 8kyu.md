@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Grasshopper - Messi Goals](https://www.codewars.com/kata/55ca77fa094a2af31f00002a/train/javascript)|8|JS|[path](./katas/grasshopperMessiGoals)|[solution](./katas/grasshopperMessiGoals/kata.js)|
 |[Be Concise IV - Index of an element in an array](https://www.codewars.com/kata/5703c093022cd1aae90012c9/train/javascript)|8|JS|[path](./katas/beConciseIvIndexOfAnElementInAnArray)|[solution](./katas/beConciseIvIndexOfAnElementInAnArray/kata.js)|
 [Chuck Norris VII - True or False? (Beginner)](https://www.codewars.com/kata/570669d8cb7293a2d1001473/train/javascript)|8|JS|[path](./katas/chuckNorrisViiTrueOrFalseBeginner/)|[solution](./katas/chuckNorrisViiTrueOrFalseBeginner/kata.js)|
 [get character from ASCII Value](https://www.codewars.com/kata/55ad04714f0b468e8200001c/train/javascript)|8|JS|[path](./katas/getCharacterFromAsciiValue/)|[solution](./katas/getCharacterFromAsciiValue/kata.js)|

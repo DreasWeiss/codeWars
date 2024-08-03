@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Grasshopper - Messi Goals](https://www.codewars.com/kata/55ca77fa094a2af31f00002a/train/javascript)|8|JS|[path](./katas/grasshopperMessiGoals)|[solution](./katas/grasshopperMessiGoals/kata.js)|
 |[Where Are My Glasses?](https://www.codewars.com/kata/6512c786a07f6a000fe7a274/train/javascript)|7|JS|[path](./katas/whereAreMyGlasses)|[solution](./katas/whereAreMyGlasses/kata.js)|
 |[Be Concise IV - Index of an element in an array](https://www.codewars.com/kata/5703c093022cd1aae90012c9/train/javascript)|8|JS|[path](./katas/beConciseIvIndexOfAnElementInAnArray)|[solution](./katas/beConciseIvIndexOfAnElementInAnArray/kata.js)|
 |[Return the Missing Element](https://www.codewars.com/kata/5299413901337c637e000004/train/javascript)|7|JS|[path](./katas/returnTheMissingElement)|[solution](./katas/returnTheMissingElement/kata.js)|
