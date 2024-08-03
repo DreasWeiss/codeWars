@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Be Concise IV - Index of an element in an array](https://www.codewars.com/kata/5703c093022cd1aae90012c9/train/javascript)|8|JS|[path](./katas/beConciseIvIndexOfAnElementInAnArray)|[solution](./katas/beConciseIvIndexOfAnElementInAnArray/kata.js)|
 |[Return the Missing Element](https://www.codewars.com/kata/5299413901337c637e000004/train/javascript)|7|JS|[path](./katas/returnTheMissingElement)|[solution](./katas/returnTheMissingElement/kata.js)|
 |[Find the missed number](https://www.codewars.com/kata/5a1d86dbba2a142e040000ee/train/javascript)|6|JS|[path](./katas/findTheMissedNumber)|[solution](./katas/findTheMissedNumber/kata.js)|
 |[Count Repeats](https://www.codewars.com/kata/598ee7b6ec6cb90dd6000061/train/javascript)|6|JS|[path](./katas/countRepeats)|[solution](./katas/countRepeats/kata.js)|
