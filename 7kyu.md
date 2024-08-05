@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Find the Missing Number](https://www.codewars.com/kata/57f5e7bd60d0a0cfd900032d/train/javascript)|7|JS|[path](./katas/findTheMissingNumber)|[solution](./katas/findTheMissingNumber/kata.js)|
 |[Where Are My Glasses?](https://www.codewars.com/kata/6512c786a07f6a000fe7a274/train/javascript)|7|JS|[path](./katas/whereAreMyGlasses)|[solution](./katas/whereAreMyGlasses/kata.js)|
 |[Return the Missing Element](https://www.codewars.com/kata/5299413901337c637e000004/train/javascript)|7|JS|[path](./katas/returnTheMissingElement)|[solution](./katas/returnTheMissingElement/kata.js)|
 |[The Office III - Broken Photocopier](https://www.codewars.com/kata/57ed56657b45ef922300002b/train/javascript)|7|JS|[path](./katas/theOfficeIiiBrokenPhotocopier)|[solution](./katas/theOfficeIiiBrokenPhotocopier/kata.js)|
