@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[The Office II - Boredom Score](https://www.codewars.com/kata/57ed4cef7b45ef8774000014/train/javascript)|7|JS|[path](./katas/theOfficeIiBoredomScore)|[solution](./katas/theOfficeIiBoredomScore/kata.js)|
 |[Find the Missing Number](https://www.codewars.com/kata/57f5e7bd60d0a0cfd900032d/train/javascript)|7|JS|[path](./katas/findTheMissingNumber)|[solution](./katas/findTheMissingNumber/kata.js)|
 |[What is between?](https://www.codewars.com/kata/55ecd718f46fba02e5000029/train/javascript)|8|JS|[path](./katas/whatIsBetween)|[solution](./katas/whatIsBetween/kata.js)|
 |[Grasshopper - Messi Goals](https://www.codewars.com/kata/55ca77fa094a2af31f00002a/train/javascript)|8|JS|[path](./katas/grasshopperMessiGoals)|[solution](./katas/grasshopperMessiGoals/kata.js)|
