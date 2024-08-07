@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 5 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[A Simple Music Encoder](https://www.codewars.com/kata/58db9545facc51e3db00000a/train/javascript)|5|JS|[path](./katas/aSimpleMusicEncoder)|[solution](./katas/aSimpleMusicEncoder/kata.js)|
 |[Object extend](https://www.codewars.com/kata/51f9d3a6e5a42591ae0001eb/train/javascript)|5|JS|[path](./katas/objectExtend/)|[solution](./katas/objectExtend/kata.js)|
 |[Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/javascript)|5|JS|[path](./katas/scramblies/)|[solution](./katas/scramblies/kata.js)|
 |[Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b/train/javascript)|5|JS|[path](./katas/extractTheDomainNameFromAUrl/)|[solution](./katas/extractTheDomainNameFromAUrl/kata.js)|
