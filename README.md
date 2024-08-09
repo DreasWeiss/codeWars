@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[My Language Skills](https://www.codewars.com/kata/5b16490986b6d336c900007d/train/javascript)|7|JS|[path](./katas/myLanguageSkills)|[solution](./katas/myLanguageSkills/kata.js)|
 |[Double Every Other](https://www.codewars.com/kata/5809c661f15835266900010a/train/javascript)|7|JS|[path](./katas/doubleEveryOther)|[solution](./katas/doubleEveryOther/kata.js)|
 |[A Simple Music Encoder](https://www.codewars.com/kata/58db9545facc51e3db00000a/train/javascript)|5|JS|[path](./katas/aSimpleMusicEncoder)|[solution](./katas/aSimpleMusicEncoder/kata.js)|
 |[Lottery Ticket](https://www.codewars.com/kata/57f625992f4d53c24200070e/train/javascript)|6|JS|[path](./katas/lotteryTicket)|[solution](./katas/lotteryTicket/kata.js)|

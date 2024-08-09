@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[My Language Skills](https://www.codewars.com/kata/5b16490986b6d336c900007d/train/javascript)|7|JS|[path](./katas/myLanguageSkills)|[solution](./katas/myLanguageSkills/kata.js)|
 |[Double Every Other](https://www.codewars.com/kata/5809c661f15835266900010a/train/javascript)|7|JS|[path](./katas/doubleEveryOther)|[solution](./katas/doubleEveryOther/kata.js)|
 |[The Office II - Boredom Score](https://www.codewars.com/kata/57ed4cef7b45ef8774000014/train/javascript)|7|JS|[path](./katas/theOfficeIiBoredomScore)|[solution](./katas/theOfficeIiBoredomScore/kata.js)|
 |[Find the Missing Number](https://www.codewars.com/kata/57f5e7bd60d0a0cfd900032d/train/javascript)|7|JS|[path](./katas/findTheMissingNumber)|[solution](./katas/findTheMissingNumber/kata.js)|
