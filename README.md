@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Sort with a sorting array](https://www.codewars.com/kata/59dc8288fc3c49cc3f000039/train/javascript)|7|JS|[path](./katas/sortWithASortingArray)|[solution](./katas/sortWithASortingArray/kata.js)|
 |[Find the Difference in Age between Oldest and Youngest Family Members](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2/train/javascript)|8|JS|[path](./katas/findTheDifferenceInAgeBetweenOldestAndYoungestFamilyMembers)|[solution](./katas/findTheDifferenceInAgeBetweenOldestAndYoungestFamilyMembers/kata.js)|
 |[Return the day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25/train/javascript)|8|JS|[path](./katas/returnTheDay)|[solution](./katas/returnTheDay/kata.js)|
 |[Between Extremes](https://www.codewars.com/kata/56d19b2ac05aed1a20000430/train/javascript)|7|JS|[path](./katas/betweenExtremes)|[solution](./katas/betweenExtremes/kata.js)|
