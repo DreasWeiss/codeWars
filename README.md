@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[What century is it?](https://www.codewars.com/kata/52fb87703c1351ebd200081f/train/javascript)|6|JS|[path](./katas/whatCenturyIsIt)|[solution](./katas/whatCenturyIsIt/kata.js)|
 |[Find the missing term in an Arithmetic Progression](https://www.codewars.com/kata/52de553ebb55d1fca3000371/train/javascript)|6|JS|[path](./katas/findTheMissingTermInAnArithmeticProgression)|[solution](./katas/findTheMissingTermInAnArithmeticProgression/kata.js)|
 |[Sort with a sorting array](https://www.codewars.com/kata/59dc8288fc3c49cc3f000039/train/javascript)|7|JS|[path](./katas/sortWithASortingArray)|[solution](./katas/sortWithASortingArray/kata.js)|
 |[Find the Difference in Age between Oldest and Youngest Family Members](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2/train/javascript)|8|JS|[path](./katas/findTheDifferenceInAgeBetweenOldestAndYoungestFamilyMembers)|[solution](./katas/findTheDifferenceInAgeBetweenOldestAndYoungestFamilyMembers/kata.js)|
