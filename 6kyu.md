@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 6 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Find the missing term in an Arithmetic Progression](https://www.codewars.com/kata/52de553ebb55d1fca3000371/train/javascript)|6|JS|[path](./katas/findTheMissingTermInAnArithmeticProgression)|[solution](./katas/findTheMissingTermInAnArithmeticProgression/kata.js)|
 |[Lottery Ticket](https://www.codewars.com/kata/57f625992f4d53c24200070e/train/javascript)|6|JS|[path](./katas/lotteryTicket)|[solution](./katas/lotteryTicket/kata.js)|
 |[Find the missed number](https://www.codewars.com/kata/5a1d86dbba2a142e040000ee/train/javascript)|6|JS|[path](./katas/findTheMissedNumber)|[solution](./katas/findTheMissedNumber/kata.js)|
 |[Count Repeats](https://www.codewars.com/kata/598ee7b6ec6cb90dd6000061/train/javascript)|6|JS|[path](./katas/countRepeats)|[solution](./katas/countRepeats/kata.js)|
