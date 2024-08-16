@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251/train/javascript)|8|JS|[path](./katas/stringCleaning)|[solution](./katas/stringCleaning/kata.js)|
 |[What century is it?](https://www.codewars.com/kata/52fb87703c1351ebd200081f/train/javascript)|6|JS|[path](./katas/whatCenturyIsIt)|[solution](./katas/whatCenturyIsIt/kata.js)|
 |[Find the missing term in an Arithmetic Progression](https://www.codewars.com/kata/52de553ebb55d1fca3000371/train/javascript)|6|JS|[path](./katas/findTheMissingTermInAnArithmeticProgression)|[solution](./katas/findTheMissingTermInAnArithmeticProgression/kata.js)|
 |[Sort with a sorting array](https://www.codewars.com/kata/59dc8288fc3c49cc3f000039/train/javascript)|7|JS|[path](./katas/sortWithASortingArray)|[solution](./katas/sortWithASortingArray/kata.js)|

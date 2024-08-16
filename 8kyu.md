@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251/train/javascript)|8|JS|[path](./katas/stringCleaning)|[solution](./katas/stringCleaning/kata.js)|
 |[Find the Difference in Age between Oldest and Youngest Family Members](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2/train/javascript)|8|JS|[path](./katas/findTheDifferenceInAgeBetweenOldestAndYoungestFamilyMembers)|[solution](./katas/findTheDifferenceInAgeBetweenOldestAndYoungestFamilyMembers/kata.js)|
 |[Return the day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25/train/javascript)|8|JS|[path](./katas/returnTheDay)|[solution](./katas/returnTheDay/kata.js)|
 |[What is between?](https://www.codewars.com/kata/55ecd718f46fba02e5000029/train/javascript)|8|JS|[path](./katas/whatIsBetween)|[solution](./katas/whatIsBetween/kata.js)|
