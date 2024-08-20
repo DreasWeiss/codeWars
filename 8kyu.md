@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 8 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[I love you, a little , a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/train/javascript)|8|JS|[path](./katas/iLoveYouALittleALotPassionatelyNotAtAll)|[solution](./katas/iLoveYouALittleALotPassionatelyNotAtAll/kata.js)|
 |[Cat years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/javascript)|8|JS|[path](./katas/catYearsDogYears)|[solution](./katas/catYearsDogYears/kata.js)|
 |[String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251/train/javascript)|8|JS|[path](./katas/stringCleaning)|[solution](./katas/stringCleaning/kata.js)|
 |[Find the Difference in Age between Oldest and Youngest Family Members](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2/train/javascript)|8|JS|[path](./katas/findTheDifferenceInAgeBetweenOldestAndYoungestFamilyMembers)|[solution](./katas/findTheDifferenceInAgeBetweenOldestAndYoungestFamilyMembers/kata.js)|
