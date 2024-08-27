@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Grasshopper - Terminal game combat function](https://www.codewars.com/kata/586c1cf4b98de0399300001d/train/javascript)|8|JS|[path](./katas/grasshopperTerminalGameCombatFunction)|[solution](./katas/grasshopperTerminalGameCombatFunction/kata.js)|
 |[Are we alternate?](https://www.codewars.com/kata/59325dc15dbb44b2440000af/train/javascript)|6|JS|[path](./katas/areWeAlternate)|[solution](./katas/areWeAlternate/kata.js)|
 |[Grader](https://www.codewars.com/kata/53d16bd82578b1fb5b00128c/train/javascript)|8|JS|[path](./katas/grader)|[solution](./katas/grader/kata.js)|
 |[I love you, a little , a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/train/javascript)|8|JS|[path](./katas/iLoveYouALittleALotPassionatelyNotAtAll)|[solution](./katas/iLoveYouALittleALotPassionatelyNotAtAll/kata.js)|
