@@ -12,6 +12,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Deodorant Evaporator](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f/train/typescript)|7|TS|[path](./katas/deodorantEvaporator)|[solution](./katas/deodorantEvaporator/kata.ts)|
 |[Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b/train/typescript)|8|TS|[path](./katas/helloNameOrWorld)|[solution](./katas/helloNameOrWorld/kata.ts)|
 |[validate code with simple regex](https://www.codewars.com/kata/56a25ba95df27b7743000016/train/javascript)|8|JS|[path](./katas/validateCodeWithSimpleRegex)|[solution](./katas/validateCodeWithSimpleRegex/kata.js)|
 |[Grasshopper - Terminal game combat function](https://www.codewars.com/kata/586c1cf4b98de0399300001d/train/javascript)|8|JS|[path](./katas/grasshopperTerminalGameCombatFunction)|[solution](./katas/grasshopperTerminalGameCombatFunction/kata.js)|

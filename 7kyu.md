@@ -13,6 +13,7 @@ tags: codewars codewars-kata codewars-solutions codewars-challenges codewars-kat
 ### 7 kyu
 |Kata link|kyu|language|path|my solution|
 |---|----|---|---|---|
+|[Deodorant Evaporator](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f/train/typescript)|7|TS|[path](./katas/deodorantEvaporator)|[solution](./katas/deodorantEvaporator/kata.ts)|
 |[Sort with a sorting array](https://www.codewars.com/kata/59dc8288fc3c49cc3f000039/train/javascript)|7|JS|[path](./katas/sortWithASortingArray)|[solution](./katas/sortWithASortingArray/kata.js)|
 |[Between Extremes](https://www.codewars.com/kata/56d19b2ac05aed1a20000430/train/javascript)|7|JS|[path](./katas/betweenExtremes)|[solution](./katas/betweenExtremes/kata.js)|
 |[My Language Skills](https://www.codewars.com/kata/5b16490986b6d336c900007d/train/javascript)|7|JS|[path](./katas/myLanguageSkills)|[solution](./katas/myLanguageSkills/kata.js)|
